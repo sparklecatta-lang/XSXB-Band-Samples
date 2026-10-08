@@ -1,0 +1,32 @@
+// 采样盒 · 人声 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // soul-shot-1 · 灵魂乐女声 · 句 1 seq_length=1
+<region> sample=samples/crate-vocals/soul-shot-1.flac key=59 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // soul-shot-2 · 灵魂乐女声 · 句 2 seq_length=1
+<region> sample=samples/crate-vocals/soul-shot-2.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // soul-shot-3 · 灵魂乐女声 · 句 3 seq_length=1
+<region> sample=samples/crate-vocals/soul-shot-3.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // soul-shot-4 · 灵魂乐女声 · 句 4 seq_length=1
+<region> sample=samples/crate-vocals/soul-shot-4.flac key=59 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // soul-pitched · 灵魂乐女声 · 变调效果 seq_length=1
+<region> sample=samples/crate-vocals/soul-pitched.flac key=66 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // scat-1 · 爵士拟声 · 1 seq_length=1
+<region> sample=samples/crate-vocals/scat-1.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // scat-2 · 爵士拟声 · 2 seq_length=1
+<region> sample=samples/crate-vocals/scat-2.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // scat-3 · 爵士拟声 · 3 seq_length=1
+<region> sample=samples/crate-vocals/scat-3.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // vocal-chops-loop · 女声切片 · 整段 seq_length=1
+<region> sample=samples/crate-vocals/vocal-chops-loop.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // high-chant · 高音吟唱 seq_length=1
+<region> sample=samples/crate-vocals/high-chant.flac key=65 pitch_keytrack=0 seq_position=1 volume=0

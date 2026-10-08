@@ -1,0 +1,32 @@
+// 采样盒 · 讲话 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // armstrong-small-step · 阿姆斯特朗 · 一小步 seq_length=1
+<region> sample=samples/crate-speech/armstrong-small-step.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // apollo13-houston-problem-here · 阿波罗 13 · Okay, Houston, we've had a problem here seq_length=1
+<region> sample=samples/crate-speech/apollo13-houston-problem-here.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // apollo13-houston-problem · 阿波罗 13 · Houston, we've had a problem seq_length=1
+<region> sample=samples/crate-speech/apollo13-houston-problem.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // apollo11-eagle-has-landed · 阿波罗 11 · Tranquility Base here. The Eagle has landed seq_length=1
+<region> sample=samples/crate-speech/apollo11-eagle-has-landed.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // jfk-we-choose-moon-x2 · 肯尼迪 · We choose to go to the moon ×2 seq_length=1
+<region> sample=samples/crate-speech/jfk-we-choose-moon-x2.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // jfk-we-choose-moon · 肯尼迪 · We choose to go to the moon seq_length=1
+<region> sample=samples/crate-speech/jfk-we-choose-moon.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // jfk-this-decade · 肯尼迪 · …to the moon in this decade and do the other things seq_length=1
+<region> sample=samples/crate-speech/jfk-this-decade.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // jfk-not-because-easy · 肯尼迪 · …not because they are easy, but because they are hard seq_length=1
+<region> sample=samples/crate-speech/jfk-not-because-easy.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // spoken-vastness-of-stars · 女声念白 · In the vastness of stars, what do you see? seq_length=1
+<region> sample=samples/crate-speech/spoken-vastness-of-stars.flac key=60 pitch_keytrack=0 seq_position=1 volume=0
+
+<group> // spoken-darkness · 女声念白 · Darkness seq_length=1
+<region> sample=samples/crate-speech/spoken-darkness.flac key=60 pitch_keytrack=0 seq_position=1 volume=0

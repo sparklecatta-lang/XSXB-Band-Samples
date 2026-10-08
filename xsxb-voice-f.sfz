@@ -1,0 +1,65 @@
+// 小宝人声 · 女声 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // oo · 乌 · 长音
+<region> sample=samples/xsxb-voice-f/oo-52-1-f.flac pitch_keycenter=56 lokey=0 hikey=57 tune=12 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=188770
+<region> sample=samples/xsxb-voice-f/oo-55-1-f.flac pitch_keycenter=59 lokey=58 hikey=60 tune=-17 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=172771
+<region> sample=samples/xsxb-voice-f/oo-58-1-f.flac pitch_keycenter=62 lokey=61 hikey=63 tune=-16 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=186091
+<region> sample=samples/xsxb-voice-f/oo-61-1-f.flac pitch_keycenter=65 lokey=64 hikey=66 tune=-80 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=185376
+<region> sample=samples/xsxb-voice-f/oo-64-1-f.flac pitch_keycenter=68 lokey=67 hikey=69 tune=-88 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=201667
+<region> sample=samples/xsxb-voice-f/oo-67-1-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-54 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=191746
+<region> sample=samples/xsxb-voice-f/oo-70-1-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=-16 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=180206
+<region> sample=samples/xsxb-voice-f/oo-73-1-f.flac pitch_keycenter=77 lokey=76 hikey=78 tune=19 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=182424
+<region> sample=samples/xsxb-voice-f/oo-76-1-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-69 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=176914
+<region> sample=samples/xsxb-voice-f/oo-79-1-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=-10 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=199123
+
+<group> // aa · 啊 · 长音
+<region> sample=samples/xsxb-voice-f/aa-52-1-f.flac pitch_keycenter=56 lokey=0 hikey=57 tune=11 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=174859
+<region> sample=samples/xsxb-voice-f/aa-55-1-f.flac pitch_keycenter=59 lokey=58 hikey=60 tune=-4 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=196426
+<region> sample=samples/xsxb-voice-f/aa-58-1-f.flac pitch_keycenter=62 lokey=61 hikey=63 tune=-10 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=190622
+<region> sample=samples/xsxb-voice-f/aa-61-1-f.flac pitch_keycenter=65 lokey=64 hikey=66 tune=-5 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=183869
+<region> sample=samples/xsxb-voice-f/aa-64-1-f.flac pitch_keycenter=68 lokey=67 hikey=69 tune=-48 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=183149
+<region> sample=samples/xsxb-voice-f/aa-67-1-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-10 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=179750
+<region> sample=samples/xsxb-voice-f/aa-70-1-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=47 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=172349
+<region> sample=samples/xsxb-voice-f/aa-73-1-f.flac pitch_keycenter=77 lokey=76 hikey=78 tune=23 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=175032
+<region> sample=samples/xsxb-voice-f/aa-76-1-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-38 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=191414
+<region> sample=samples/xsxb-voice-f/aa-79-1-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=8 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=182232
+
+<group> // mm · 嗯 · 哼鸣
+<region> sample=samples/xsxb-voice-f/mm-52-1-f.flac pitch_keycenter=56 lokey=0 hikey=57 tune=-24 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=165096
+<region> sample=samples/xsxb-voice-f/mm-55-1-f.flac pitch_keycenter=59 lokey=58 hikey=60 tune=-6 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=164275
+<region> sample=samples/xsxb-voice-f/mm-58-1-f.flac pitch_keycenter=62 lokey=61 hikey=63 tune=26 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=163757
+<region> sample=samples/xsxb-voice-f/mm-61-1-f.flac pitch_keycenter=65 lokey=64 hikey=66 tune=-17 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=206280
+<region> sample=samples/xsxb-voice-f/mm-64-1-f.flac pitch_keycenter=68 lokey=67 hikey=69 tune=-31 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=185275
+<region> sample=samples/xsxb-voice-f/mm-67-1-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-18 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=189653
+<region> sample=samples/xsxb-voice-f/mm-70-1-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=9 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=188760
+<region> sample=samples/xsxb-voice-f/mm-73-1-f.flac pitch_keycenter=77 lokey=76 hikey=78 tune=-3 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=198422
+<region> sample=samples/xsxb-voice-f/mm-76-1-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-33 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=201696
+<region> sample=samples/xsxb-voice-f/mm-79-1-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=-6 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=194592
+
+<group> // ba · 吧 · 短音
+<region> sample=samples/xsxb-voice-f/ba-58-11-f.flac pitch_keycenter=62 lokey=0 hikey=63 tune=14 volume=0.5
+<region> sample=samples/xsxb-voice-f/ba-58-12-f.flac pitch_keycenter=62 lokey=0 hikey=63 tune=0 volume=1.6
+<region> sample=samples/xsxb-voice-f/ba-61-11-f.flac pitch_keycenter=65 lokey=64 hikey=66 tune=30 volume=0
+<region> sample=samples/xsxb-voice-f/ba-61-12-f.flac pitch_keycenter=65 lokey=64 hikey=66 tune=-5 volume=0
+<region> sample=samples/xsxb-voice-f/ba-64-11-f.flac pitch_keycenter=68 lokey=67 hikey=69 tune=-95 volume=0
+<region> sample=samples/xsxb-voice-f/ba-64-12-f.flac pitch_keycenter=68 lokey=67 hikey=69 tune=-85 volume=0
+<region> sample=samples/xsxb-voice-f/ba-67-11-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-24 volume=0
+<region> sample=samples/xsxb-voice-f/ba-67-12-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-85 volume=0
+<region> sample=samples/xsxb-voice-f/ba-67-13-f.flac pitch_keycenter=71 lokey=70 hikey=72 tune=-23 volume=0
+<region> sample=samples/xsxb-voice-f/ba-70-11-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=-10 volume=0
+<region> sample=samples/xsxb-voice-f/ba-70-12-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=-72 volume=0
+<region> sample=samples/xsxb-voice-f/ba-70-13-f.flac pitch_keycenter=74 lokey=73 hikey=75 tune=-58 volume=0
+<region> sample=samples/xsxb-voice-f/ba-73-11-f.flac pitch_keycenter=77 lokey=76 hikey=78 tune=-83 volume=0
+<region> sample=samples/xsxb-voice-f/ba-76-11-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-6 volume=0.8
+<region> sample=samples/xsxb-voice-f/ba-76-12-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-51 volume=0
+<region> sample=samples/xsxb-voice-f/ba-76-13-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-31 volume=0
+<region> sample=samples/xsxb-voice-f/ba-79-11-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=55 volume=0
+<region> sample=samples/xsxb-voice-f/ba-79-12-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=-6 volume=0
+<region> sample=samples/xsxb-voice-f/ba-79-13-f.flac pitch_keycenter=83 lokey=82 hikey=127 tune=-2 volume=1.9
+
+<group> // falsetto · 乌 · 假声
+<region> sample=samples/xsxb-voice-f/falsetto-73-1-f.flac pitch_keycenter=77 lokey=0 hikey=78 tune=-27 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=123840
+<region> sample=samples/xsxb-voice-f/falsetto-76-1-f.flac pitch_keycenter=80 lokey=79 hikey=81 tune=-49 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=205498
+<region> sample=samples/xsxb-voice-f/falsetto-79-1-f.flac pitch_keycenter=83 lokey=82 hikey=84 tune=-3 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=214061
+<region> sample=samples/xsxb-voice-f/falsetto-82-1-f.flac pitch_keycenter=86 lokey=85 hikey=127 tune=12 volume=0.0 loop_mode=loop_continuous loop_start=28992 loop_end=181848

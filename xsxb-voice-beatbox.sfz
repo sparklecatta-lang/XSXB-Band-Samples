@@ -1,0 +1,30 @@
+// 小宝人声 · Beatbox · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // kick · 底鼓 · 噗 seq_length=4
+<region> sample=samples/xsxb-voice-beatbox/bb-kick-11.flac key=60 pitch_keytrack=0 seq_position=1 volume=-2.6
+<region> sample=samples/xsxb-voice-beatbox/bb-kick-12.flac key=60 pitch_keytrack=0 seq_position=2 volume=-5.8
+<region> sample=samples/xsxb-voice-beatbox/bb-kick-13.flac key=60 pitch_keytrack=0 seq_position=3 volume=-6.6
+<region> sample=samples/xsxb-voice-beatbox/bb-kick-14.flac key=60 pitch_keytrack=0 seq_position=4 volume=-6.4
+
+<group> // snare · 军鼓 · 噗嘶 seq_length=4
+<region> sample=samples/xsxb-voice-beatbox/bb-snare-11.flac key=60 pitch_keytrack=0 seq_position=1 volume=-2.7
+<region> sample=samples/xsxb-voice-beatbox/bb-snare-12.flac key=60 pitch_keytrack=0 seq_position=2 volume=-5.1
+<region> sample=samples/xsxb-voice-beatbox/bb-snare-13.flac key=60 pitch_keytrack=0 seq_position=3 volume=-6.8
+<region> sample=samples/xsxb-voice-beatbox/bb-snare-14.flac key=60 pitch_keytrack=0 seq_position=4 volume=-6.8
+
+<group> // ksnare · 舌根军鼓 · 克 seq_length=4
+<region> sample=samples/xsxb-voice-beatbox/bb-ksnare-11.flac key=60 pitch_keytrack=0 seq_position=1 volume=-4.1
+<region> sample=samples/xsxb-voice-beatbox/bb-ksnare-12.flac key=60 pitch_keytrack=0 seq_position=2 volume=-5.0
+<region> sample=samples/xsxb-voice-beatbox/bb-ksnare-13.flac key=60 pitch_keytrack=0 seq_position=3 volume=-5.0
+<region> sample=samples/xsxb-voice-beatbox/bb-ksnare-14.flac key=60 pitch_keytrack=0 seq_position=4 volume=-4.3
+
+<group> // hihat · 踩镲 · 次 seq_length=4
+<region> sample=samples/xsxb-voice-beatbox/bb-hihat-11.flac key=60 pitch_keytrack=0 seq_position=1 volume=-7.1
+<region> sample=samples/xsxb-voice-beatbox/bb-hihat-12.flac key=60 pitch_keytrack=0 seq_position=2 volume=-4.5
+<region> sample=samples/xsxb-voice-beatbox/bb-hihat-13.flac key=60 pitch_keytrack=0 seq_position=3 volume=-2.9
+<region> sample=samples/xsxb-voice-beatbox/bb-hihat-14.flac key=60 pitch_keytrack=0 seq_position=4 volume=-3.4
+
+<group> // openhat · 开镲 · 次—— seq_length=2
+<region> sample=samples/xsxb-voice-beatbox/bb-openhat-11.flac key=60 pitch_keytrack=0 seq_position=1 volume=-6.2
+<region> sample=samples/xsxb-voice-beatbox/bb-openhat-12.flac key=60 pitch_keytrack=0 seq_position=2 volume=-5.0

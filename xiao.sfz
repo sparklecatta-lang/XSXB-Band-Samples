@@ -1,0 +1,64 @@
+// 箫 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // sustain · 长音
+<region> sample=samples/xiao/BassRecorder_Sus_Fs2_rr1_Main-xiao.flac pitch_keycenter=54 lokey=0 hikey=55 tune=3 volume=3.9
+<region> sample=samples/xiao/BassRecorder_Sus_Gs2_rr1_Main-xiao.flac pitch_keycenter=56 lokey=56 hikey=57 tune=0 volume=9.3
+<region> sample=samples/xiao/BassRecorder_Sus_As2_rr1_Main-xiao.flac pitch_keycenter=58 lokey=58 hikey=59 tune=6 volume=12
+<region> sample=samples/xiao/TenRecorder_Sus_C3_rr1_Main-xiao.flac pitch_keycenter=60 lokey=60 hikey=61 tune=-1 volume=12
+<region> sample=samples/xiao/TenRecorder_Sus_D3_rr1_Main-xiao.flac pitch_keycenter=62 lokey=62 hikey=63 tune=0 volume=3.1
+<region> sample=samples/xiao/TenRecorder_Sus_E3_rr1_Main-xiao.flac pitch_keycenter=64 lokey=64 hikey=65 tune=7 volume=11.0
+<region> sample=samples/xiao/TenRecorder_Sus_Fs3_rr1_Main-xiao.flac pitch_keycenter=66 lokey=66 hikey=67 tune=-2 volume=1.5
+<region> sample=samples/xiao/TenRecorder_Sus_Gs3_rr1_Main-xiao.flac pitch_keycenter=68 lokey=68 hikey=69 tune=-2 volume=-1.5
+<region> sample=samples/xiao/TenRecorder_Sus_As3_rr1_Main-xiao.flac pitch_keycenter=70 lokey=70 hikey=71 tune=-1 volume=-5.5
+<region> sample=samples/xiao/TenRecorder_Sus_C4_rr1_Main-xiao.flac pitch_keycenter=72 lokey=72 hikey=73 tune=0 volume=6.8
+<region> sample=samples/xiao/TenRecorder_Sus_D4_rr1_Main-xiao.flac pitch_keycenter=74 lokey=74 hikey=75 tune=-1 volume=-5.5
+<region> sample=samples/xiao/TenRecorder_Sus_E4_rr1_Main-xiao.flac pitch_keycenter=76 lokey=76 hikey=77 tune=-1 volume=-4.7
+<region> sample=samples/xiao/TenRecorder_Sus_Fs4_rr1_Main-xiao.flac pitch_keycenter=78 lokey=78 hikey=79 tune=-3 volume=-3.5
+<region> sample=samples/xiao/TenRecorder_Sus_Gs4_rr1_Main-xiao.flac pitch_keycenter=80 lokey=80 hikey=80 tune=0 volume=-10.2
+<region> sample=samples/xiao/TenRecorder_Sus_A4_rr1_Main-xiao.flac pitch_keycenter=81 lokey=81 hikey=82 tune=0 volume=-12
+<region> sample=samples/xiao/TenRecorder_Sus_C5_rr1_Main-xiao.flac pitch_keycenter=84 lokey=83 hikey=127 tune=3 volume=-12
+
+<group> // vibrato · 颤音
+<region> sample=samples/xiao/BassRecorder_SusVib_F2_rr1_Main-xiao.flac pitch_keycenter=53 lokey=0 hikey=54 tune=2 volume=12
+<region> sample=samples/xiao/BassRecorder_SusVib_G2_rr1_Main-xiao.flac pitch_keycenter=55 lokey=55 hikey=56 tune=1 volume=12
+<region> sample=samples/xiao/BassRecorder_SusVib_A2_rr1_Main-xiao.flac pitch_keycenter=57 lokey=57 hikey=58 tune=6 volume=10.6
+<region> sample=samples/xiao/BassRecorder_SusVib_B2_rr1_Main-xiao.flac pitch_keycenter=59 lokey=59 hikey=59 tune=-4 volume=12
+<region> sample=samples/xiao/TenRecorder_SusVib_C3_rr1_Main-xiao.flac pitch_keycenter=60 lokey=60 hikey=61 tune=-3 volume=12
+<region> sample=samples/xiao/TenRecorder_SusVib_D3_rr1_Main-xiao.flac pitch_keycenter=62 lokey=62 hikey=63 tune=1 volume=6.7
+<region> sample=samples/xiao/TenRecorder_SusVib_E3_rr1_Main-xiao.flac pitch_keycenter=64 lokey=64 hikey=64 tune=-2 volume=7.6
+<region> sample=samples/xiao/BassRecorder_SusVib_F3_rr1_Main-xiao.flac pitch_keycenter=65 lokey=65 hikey=65 tune=1 volume=5.6
+<region> sample=samples/xiao/TenRecorder_SusVib_Fs3_rr1_Main-xiao.flac pitch_keycenter=66 lokey=66 hikey=66 tune=3 volume=3.0
+<region> sample=samples/xiao/TenRecorder_SusVib_G3_rr1_Main-xiao.flac pitch_keycenter=67 lokey=67 hikey=68 tune=-8 volume=-3.6
+<region> sample=samples/xiao/TenRecorder_SusVib_A3_rr1_Main-xiao.flac pitch_keycenter=69 lokey=69 hikey=70 tune=-1 volume=-5.0
+<region> sample=samples/xiao/TenRecorder_SusVib_B3_rr1_Main-xiao.flac pitch_keycenter=71 lokey=71 hikey=71 tune=3 volume=-6.2
+<region> sample=samples/xiao/TenRecorder_SusVib_C4_rr1_Main-xiao.flac pitch_keycenter=72 lokey=72 hikey=73 tune=3 volume=-4.2
+<region> sample=samples/xiao/TenRecorder_SusVib_D4_rr1_Main-xiao.flac pitch_keycenter=74 lokey=74 hikey=75 tune=4 volume=-4.7
+<region> sample=samples/xiao/TenRecorder_SusVib_E4_rr1_Main-xiao.flac pitch_keycenter=76 lokey=76 hikey=77 tune=3 volume=-1.3
+<region> sample=samples/xiao/TenRecorder_SusVib_Fs4_rr1_Main-xiao.flac pitch_keycenter=78 lokey=78 hikey=78 tune=4 volume=0.0
+<region> sample=samples/xiao/TenRecorder_SusVib_G4_rr1_Main-xiao.flac pitch_keycenter=79 lokey=79 hikey=80 tune=4 volume=-8.6
+<region> sample=samples/xiao/TenRecorder_SusVib_A4_rr1_Main-xiao.flac pitch_keycenter=81 lokey=81 hikey=82 tune=-1 volume=-12
+<region> sample=samples/xiao/TenRecorder_SusVib_B4_rr1_Main-xiao.flac pitch_keycenter=83 lokey=83 hikey=127 tune=3 volume=-10.6
+
+<group> // staccato · 断奏
+<region> sample=samples/xiao/BassRecorder_Stac_F2_rr1_Main-xiao.flac pitch_keycenter=53 lokey=0 hikey=54 tune=0 volume=12
+<region> sample=samples/xiao/BassRecorder_Stac_G2_rr1_Main-xiao.flac pitch_keycenter=55 lokey=55 hikey=56 tune=-15 volume=9.3
+<region> sample=samples/xiao/BassRecorder_Stac_A2_rr1_Main-xiao.flac pitch_keycenter=57 lokey=57 hikey=57 tune=-1 volume=12
+<region> sample=samples/xiao/BassRecorder_Stac_As2_rr1_Main-xiao.flac pitch_keycenter=58 lokey=58 hikey=59 tune=-3 volume=10.2
+<region> sample=samples/xiao/TenRecorder_Stac_C3_rr1_Main-xiao.flac pitch_keycenter=60 lokey=60 hikey=61 tune=-11 volume=12
+<region> sample=samples/xiao/TenRecorder_Stac_D3_rr1_Main-xiao.flac pitch_keycenter=62 lokey=62 hikey=63 tune=4 volume=12
+<region> sample=samples/xiao/TenRecorder_Stac_E3_rr1_Main-xiao.flac pitch_keycenter=64 lokey=64 hikey=64 tune=-10 volume=10.3
+<region> sample=samples/xiao/BassRecorder_Stac_F3_rr1_Main-xiao.flac pitch_keycenter=65 lokey=65 hikey=65 tune=-3 volume=1.0
+<region> sample=samples/xiao/TenRecorder_Stac_Fs3_rr1_Main-xiao.flac pitch_keycenter=66 lokey=66 hikey=66 tune=5 volume=2.9
+<region> sample=samples/xiao/BassRecorder_Stac_G3_rr1_Main-xiao.flac pitch_keycenter=67 lokey=67 hikey=67 tune=8 volume=-4.7
+<region> sample=samples/xiao/TenRecorder_Stac_Gs3_rr1_Main-xiao.flac pitch_keycenter=68 lokey=68 hikey=68 tune=-1 volume=4.4
+<region> sample=samples/xiao/BassRecorder_Stac_A3_rr1_Main-xiao.flac pitch_keycenter=69 lokey=69 hikey=69 tune=-4 volume=-8.9
+<region> sample=samples/xiao/TenRecorder_Stac_As3_rr1_Main-xiao.flac pitch_keycenter=70 lokey=70 hikey=70 tune=6 volume=-7.1
+<region> sample=samples/xiao/BassRecorder_Stac_B3_rr1_Main-xiao.flac pitch_keycenter=71 lokey=71 hikey=71 tune=3 volume=0.0
+<region> sample=samples/xiao/TenRecorder_Stac_C4_rr1_Main-xiao.flac pitch_keycenter=72 lokey=72 hikey=73 tune=-3 volume=-2.5
+<region> sample=samples/xiao/TenRecorder_Stac_D4_rr1_Main-xiao.flac pitch_keycenter=74 lokey=74 hikey=75 tune=-3 volume=-2.9
+<region> sample=samples/xiao/TenRecorder_Stac_E4_rr1_Main-xiao.flac pitch_keycenter=76 lokey=76 hikey=76 tune=-1 volume=-5.4
+<region> sample=samples/xiao/BassRecorder_Stac_F4_rr1_Main-xiao.flac pitch_keycenter=77 lokey=77 hikey=77 tune=5 volume=-9.4
+<region> sample=samples/xiao/TenRecorder_Stac_Fs4_rr1_Main-xiao.flac pitch_keycenter=78 lokey=78 hikey=79 tune=3 volume=-3.0
+<region> sample=samples/xiao/TenRecorder_Stac_Gs4_rr1_Main-xiao.flac pitch_keycenter=80 lokey=80 hikey=81 tune=-4 volume=-12
+<region> sample=samples/xiao/TenRecorder_Stac_B4_rr1_Main-xiao.flac pitch_keycenter=83 lokey=82 hikey=127 tune=-1 volume=-12

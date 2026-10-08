@@ -1,0 +1,38 @@
+// 合成器贝斯 · Moog 式 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // sustain · 持续（可滑音）
+<region> sample=samples/gfunk-bass/sustain-24.flac pitch_keycenter=24 lokey=0 hikey=25 tune=0 volume=0 loop_mode=loop_continuous loop_start=44032 loop_end=55774
+<region> sample=samples/gfunk-bass/sustain-27.flac pitch_keycenter=27 lokey=26 hikey=28 tune=0 volume=0 loop_mode=loop_continuous loop_start=44432 loop_end=56774
+<region> sample=samples/gfunk-bass/sustain-30.flac pitch_keycenter=30 lokey=29 hikey=31 tune=0 volume=0 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/sustain-33.flac pitch_keycenter=33 lokey=32 hikey=34 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/sustain-36.flac pitch_keycenter=36 lokey=35 hikey=37 tune=0 volume=0 loop_mode=loop_continuous loop_start=42565 loop_end=54307
+<region> sample=samples/gfunk-bass/sustain-39.flac pitch_keycenter=39 lokey=38 hikey=40 tune=0 volume=0 loop_mode=loop_continuous loop_start=43198 loop_end=55540
+<region> sample=samples/gfunk-bass/sustain-42.flac pitch_keycenter=42 lokey=41 hikey=43 tune=0 volume=0 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/sustain-45.flac pitch_keycenter=45 lokey=44 hikey=46 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/sustain-48.flac pitch_keycenter=48 lokey=47 hikey=49 tune=0 volume=0 loop_mode=loop_continuous loop_start=43299 loop_end=55041
+<region> sample=samples/gfunk-bass/sustain-51.flac pitch_keycenter=51 lokey=50 hikey=127 tune=0 volume=0 loop_mode=loop_continuous loop_start=43198 loop_end=54923
+
+<group> // pluck · 短拨
+<region> sample=samples/gfunk-bass/pluck-24.flac pitch_keycenter=24 lokey=0 hikey=25 tune=0 volume=0 loop_mode=loop_continuous loop_start=44032 loop_end=55774
+<region> sample=samples/gfunk-bass/pluck-27.flac pitch_keycenter=27 lokey=26 hikey=28 tune=0 volume=0 loop_mode=loop_continuous loop_start=44432 loop_end=56774
+<region> sample=samples/gfunk-bass/pluck-30.flac pitch_keycenter=30 lokey=29 hikey=31 tune=0 volume=0 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/pluck-33.flac pitch_keycenter=33 lokey=32 hikey=34 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/pluck-36.flac pitch_keycenter=36 lokey=35 hikey=37 tune=0 volume=0 loop_mode=loop_continuous loop_start=42565 loop_end=54307
+<region> sample=samples/gfunk-bass/pluck-39.flac pitch_keycenter=39 lokey=38 hikey=40 tune=0 volume=0 loop_mode=loop_continuous loop_start=43198 loop_end=55540
+<region> sample=samples/gfunk-bass/pluck-42.flac pitch_keycenter=42 lokey=41 hikey=43 tune=0 volume=0 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/pluck-45.flac pitch_keycenter=45 lokey=44 hikey=46 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/pluck-48.flac pitch_keycenter=48 lokey=47 hikey=49 tune=0 volume=0 loop_mode=loop_continuous loop_start=43299 loop_end=55041
+<region> sample=samples/gfunk-bass/pluck-51.flac pitch_keycenter=51 lokey=50 hikey=127 tune=0 volume=0 loop_mode=loop_continuous loop_start=43198 loop_end=54923
+
+<group> // deep · 深沉低频（慢滑音）
+<region> sample=samples/gfunk-bass/deep-24.flac pitch_keycenter=24 lokey=0 hikey=25 tune=0 volume=5 loop_mode=loop_continuous loop_start=44032 loop_end=55774
+<region> sample=samples/gfunk-bass/deep-27.flac pitch_keycenter=27 lokey=26 hikey=28 tune=0 volume=5 loop_mode=loop_continuous loop_start=44432 loop_end=56774
+<region> sample=samples/gfunk-bass/deep-30.flac pitch_keycenter=30 lokey=29 hikey=31 tune=0 volume=5 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/deep-33.flac pitch_keycenter=33 lokey=32 hikey=34 tune=0 volume=5 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/deep-36.flac pitch_keycenter=36 lokey=35 hikey=37 tune=0 volume=5 loop_mode=loop_continuous loop_start=42565 loop_end=54307
+<region> sample=samples/gfunk-bass/deep-39.flac pitch_keycenter=39 lokey=38 hikey=40 tune=0 volume=5 loop_mode=loop_continuous loop_start=43198 loop_end=55540
+<region> sample=samples/gfunk-bass/deep-42.flac pitch_keycenter=42 lokey=41 hikey=43 tune=0 volume=5 loop_mode=loop_continuous loop_start=43590 loop_end=56044
+<region> sample=samples/gfunk-bass/deep-45.flac pitch_keycenter=45 lokey=44 hikey=46 tune=0 volume=5 loop_mode=loop_continuous loop_start=43636 loop_end=55854
+<region> sample=samples/gfunk-bass/deep-48.flac pitch_keycenter=48 lokey=47 hikey=49 tune=0 volume=5 loop_mode=loop_continuous loop_start=43299 loop_end=55041
+<region> sample=samples/gfunk-bass/deep-51.flac pitch_keycenter=51 lokey=50 hikey=127 tune=0 volume=5 loop_mode=loop_continuous loop_start=43198 loop_end=54923

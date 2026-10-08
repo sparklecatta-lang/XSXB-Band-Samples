@@ -1,0 +1,56 @@
+// 采样盒 · 自制爵士唱片切片 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // bars1-8 · 1–8 小节 · 萨克斯整句
+<region> sample=samples/nujabes-chops/bars1-8.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars1-4 · 1–4 小节 · 萨克斯整句
+<region> sample=samples/nujabes-chops/bars1-4.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars5-8 · 5–8 小节 · 萨克斯整句
+<region> sample=samples/nujabes-chops/bars5-8.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars1-2 · 1–2 小节 · Dbmaj9 → C7b9
+<region> sample=samples/nujabes-chops/bars1-2.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars3-4 · 3–4 小节 · Fm9 → Fm9
+<region> sample=samples/nujabes-chops/bars3-4.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars5-6 · 5–6 小节 · Bbm9 → Eb13
+<region> sample=samples/nujabes-chops/bars5-6.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bars7-8 · 7–8 小节 · Abmaj9 → C7b9
+<region> sample=samples/nujabes-chops/bars7-8.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar1 · 第 1 小节 · Dbmaj9
+<region> sample=samples/nujabes-chops/bar1.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar2 · 第 2 小节 · C7b9
+<region> sample=samples/nujabes-chops/bar2.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar3 · 第 3 小节 · Fm9
+<region> sample=samples/nujabes-chops/bar3.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar4 · 第 4 小节 · Fm9
+<region> sample=samples/nujabes-chops/bar4.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar5 · 第 5 小节 · Bbm9
+<region> sample=samples/nujabes-chops/bar5.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar6 · 第 6 小节 · Eb13
+<region> sample=samples/nujabes-chops/bar6.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar7 · 第 7 小节 · Abmaj9
+<region> sample=samples/nujabes-chops/bar7.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bar8 · 第 8 小节 · C7b9
+<region> sample=samples/nujabes-chops/bar8.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // stab-Dbmaj9 · 和弦单击 · Dbmaj9（无萨克斯）
+<region> sample=samples/nujabes-chops/stab-Dbmaj9.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // stab-Bbm9 · 和弦单击 · Bbm9（无萨克斯）
+<region> sample=samples/nujabes-chops/stab-Bbm9.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // stab-Abmaj9 · 和弦单击 · Abmaj9（无萨克斯）
+<region> sample=samples/nujabes-chops/stab-Abmaj9.flac key=60 pitch_keytrack=1 seq_position=1 volume=0

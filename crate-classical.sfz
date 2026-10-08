@@ -1,0 +1,20 @@
+// 采样盒 · 古典乐句 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // bach-prelude-bars1-4 · 巴赫 C 大调前奏曲 · 1–4 小节
+<region> sample=samples/crate-classical/bach-prelude-bars1-4.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // bach-prelude-bars5-8 · 巴赫 C 大调前奏曲 · 5–8 小节
+<region> sample=samples/crate-classical/bach-prelude-bars5-8.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // satie-gymnopedie-intro · 萨蒂 裸体歌舞 1 · 前奏 4 小节
+<region> sample=samples/crate-classical/satie-gymnopedie-intro.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // satie-gymnopedie-melody · 萨蒂 裸体歌舞 1 · 旋律 5–12 小节（真人演奏，速度略有起伏）
+<region> sample=samples/crate-classical/satie-gymnopedie-melody.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // beethoven-moonlight-bars1-4 · 贝多芬 月光 · 1–4 小节
+<region> sample=samples/crate-classical/beethoven-moonlight-bars1-4.flac key=60 pitch_keytrack=1 seq_position=1 volume=0
+
+<group> // fur-elise-opening · 贝多芬 致爱丽丝 · 开头（弱起 + 1–4 小节）
+<region> sample=samples/crate-classical/fur-elise-opening.flac key=60 pitch_keytrack=1 seq_position=1 volume=0

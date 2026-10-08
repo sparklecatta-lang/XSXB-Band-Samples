@@ -1,0 +1,62 @@
+// 合成器主音 · G-funk 哼鸣 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // lead · 直音（滑音）
+<region> sample=samples/gfunk-lead/lead-60.flac pitch_keycenter=60 lokey=0 hikey=61 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48034
+<region> sample=samples/gfunk-lead/lead-63.flac pitch_keycenter=63 lokey=62 hikey=64 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48067
+<region> sample=samples/gfunk-lead/lead-66.flac pitch_keycenter=66 lokey=65 hikey=67 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-69.flac pitch_keycenter=69 lokey=68 hikey=70 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-72.flac pitch_keycenter=72 lokey=71 hikey=73 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48034
+<region> sample=samples/gfunk-lead/lead-75.flac pitch_keycenter=75 lokey=74 hikey=76 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=47990
+<region> sample=samples/gfunk-lead/lead-78.flac pitch_keycenter=78 lokey=77 hikey=79 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-81.flac pitch_keycenter=81 lokey=80 hikey=82 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-84.flac pitch_keycenter=84 lokey=83 hikey=85 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=47988
+<region> sample=samples/gfunk-lead/lead-87.flac pitch_keycenter=87 lokey=86 hikey=88 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=47990
+<region> sample=samples/gfunk-lead/lead-90.flac pitch_keycenter=90 lokey=89 hikey=91 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-93.flac pitch_keycenter=93 lokey=92 hikey=94 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48000
+<region> sample=samples/gfunk-lead/lead-96.flac pitch_keycenter=96 lokey=95 hikey=127 tune=0 volume=0 loop_mode=loop_continuous loop_start=24000 loop_end=48011
+
+<group> // vibrato · 颤音（滑音）
+<region> sample=samples/gfunk-lead/vibrato-60.flac pitch_keycenter=60 lokey=0 hikey=61 tune=0 volume=0 loop_mode=loop_continuous loop_start=43574 loop_end=78433
+<region> sample=samples/gfunk-lead/vibrato-63.flac pitch_keycenter=63 lokey=62 hikey=64 tune=0 volume=0 loop_mode=loop_continuous loop_start=43583 loop_end=78450
+<region> sample=samples/gfunk-lead/vibrato-66.flac pitch_keycenter=66 lokey=65 hikey=67 tune=0 volume=0 loop_mode=loop_continuous loop_start=43622 loop_end=78520
+<region> sample=samples/gfunk-lead/vibrato-69.flac pitch_keycenter=69 lokey=68 hikey=70 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=78545
+<region> sample=samples/gfunk-lead/vibrato-72.flac pitch_keycenter=72 lokey=71 hikey=73 tune=0 volume=0 loop_mode=loop_continuous loop_start=43688 loop_end=78639
+<region> sample=samples/gfunk-lead/vibrato-75.flac pitch_keycenter=75 lokey=74 hikey=76 tune=0 volume=0 loop_mode=loop_continuous loop_start=43680 loop_end=78624
+<region> sample=samples/gfunk-lead/vibrato-78.flac pitch_keycenter=78 lokey=77 hikey=79 tune=0 volume=0 loop_mode=loop_continuous loop_start=43622 loop_end=78520
+<region> sample=samples/gfunk-lead/vibrato-81.flac pitch_keycenter=81 lokey=80 hikey=82 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=78545
+<region> sample=samples/gfunk-lead/vibrato-84.flac pitch_keycenter=84 lokey=83 hikey=85 tune=0 volume=0 loop_mode=loop_continuous loop_start=43631 loop_end=78536
+<region> sample=samples/gfunk-lead/vibrato-87.flac pitch_keycenter=87 lokey=86 hikey=88 tune=0 volume=0 loop_mode=loop_continuous loop_start=43632 loop_end=78537
+<region> sample=samples/gfunk-lead/vibrato-90.flac pitch_keycenter=90 lokey=89 hikey=91 tune=0 volume=0 loop_mode=loop_continuous loop_start=43622 loop_end=78520
+<region> sample=samples/gfunk-lead/vibrato-93.flac pitch_keycenter=93 lokey=92 hikey=94 tune=0 volume=0 loop_mode=loop_continuous loop_start=43636 loop_end=78545
+<region> sample=samples/gfunk-lead/vibrato-96.flac pitch_keycenter=96 lokey=95 hikey=127 tune=0 volume=0 loop_mode=loop_continuous loop_start=43631 loop_end=78536
+
+<group> // sly · 坏笑 · 鼻音直音（滑音）
+<region> sample=samples/gfunk-lead/sly-60.flac pitch_keycenter=60 lokey=0 hikey=61 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-63.flac pitch_keycenter=63 lokey=62 hikey=64 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-66.flac pitch_keycenter=66 lokey=65 hikey=67 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-69.flac pitch_keycenter=69 lokey=68 hikey=70 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-72.flac pitch_keycenter=72 lokey=71 hikey=73 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-75.flac pitch_keycenter=75 lokey=74 hikey=76 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-78.flac pitch_keycenter=78 lokey=77 hikey=79 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-81.flac pitch_keycenter=81 lokey=80 hikey=82 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-84.flac pitch_keycenter=84 lokey=83 hikey=85 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-87.flac pitch_keycenter=87 lokey=86 hikey=88 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-90.flac pitch_keycenter=90 lokey=89 hikey=91 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-93.flac pitch_keycenter=93 lokey=92 hikey=94 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-96.flac pitch_keycenter=96 lokey=95 hikey=127 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+
+<group> // sly-vibrato · 坏笑 · 鼻音颤音（滑音）
+<region> sample=samples/gfunk-lead/sly-vibrato-60.flac pitch_keycenter=60 lokey=0 hikey=61 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-63.flac pitch_keycenter=63 lokey=62 hikey=64 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-66.flac pitch_keycenter=66 lokey=65 hikey=67 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-69.flac pitch_keycenter=69 lokey=68 hikey=70 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-72.flac pitch_keycenter=72 lokey=71 hikey=73 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-75.flac pitch_keycenter=75 lokey=74 hikey=76 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-78.flac pitch_keycenter=78 lokey=77 hikey=79 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-81.flac pitch_keycenter=81 lokey=80 hikey=82 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-84.flac pitch_keycenter=84 lokey=83 hikey=85 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-87.flac pitch_keycenter=87 lokey=86 hikey=88 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-90.flac pitch_keycenter=90 lokey=89 hikey=91 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-93.flac pitch_keycenter=93 lokey=92 hikey=94 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080
+<region> sample=samples/gfunk-lead/sly-vibrato-96.flac pitch_keycenter=96 lokey=95 hikey=127 tune=0 volume=2 loop_mode=loop_continuous loop_start=48000 loop_end=94080

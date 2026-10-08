@@ -1,0 +1,38 @@
+// 古筝 · 像素小宝 (sparklecatta-lang) · CC0 1.0
+// Each <group> is one articulation; load the file and mute groups you do not want.
+
+<group> // pluck · 拨弦
+<region> sample=samples/guzheng/guzheng-38-v1-rr1.flac pitch_keycenter=38 lokey=0 hikey=40 tune=39 volume=0.0
+<region> sample=samples/guzheng/guzheng-43-v1-rr1.flac pitch_keycenter=43 lokey=41 hikey=44 tune=10 volume=0.0
+<region> sample=samples/guzheng/guzheng-45-v1-rr1.flac pitch_keycenter=45 lokey=45 hikey=47 tune=-21 volume=0.0
+<region> sample=samples/guzheng/guzheng-50-v1-rr1.flac pitch_keycenter=50 lokey=48 hikey=51 tune=-5 volume=0.0
+<region> sample=samples/guzheng/guzheng-53-v1-rr1.flac pitch_keycenter=53 lokey=52 hikey=54 tune=-4 volume=0.0
+<region> sample=samples/guzheng/guzheng-53-v1-rr2.flac pitch_keycenter=53 lokey=52 hikey=54 tune=-19 volume=-0.6
+<region> sample=samples/guzheng/guzheng-53-v1-rr3.flac pitch_keycenter=53 lokey=52 hikey=54 tune=-12 volume=-0.2
+<region> sample=samples/guzheng/guzheng-55-v1-rr1.flac pitch_keycenter=55 lokey=55 hikey=56 tune=-3 volume=-0.8
+<region> sample=samples/guzheng/guzheng-55-v1-rr2.flac pitch_keycenter=55 lokey=55 hikey=56 tune=-3 volume=-2.0
+<region> sample=samples/guzheng/guzheng-55-v2-rr1.flac pitch_keycenter=55 lokey=55 hikey=56 tune=43 volume=-0.8
+<region> sample=samples/guzheng/guzheng-55-v2-rr2.flac pitch_keycenter=55 lokey=55 hikey=56 tune=23 volume=0.0
+<region> sample=samples/guzheng/guzheng-57-v1-rr1.flac pitch_keycenter=57 lokey=57 hikey=58 tune=-9 volume=0.0
+<region> sample=samples/guzheng/guzheng-57-v1-rr2.flac pitch_keycenter=57 lokey=57 hikey=58 tune=-9 volume=-0.5
+<region> sample=samples/guzheng/guzheng-57-v1-rr3.flac pitch_keycenter=57 lokey=57 hikey=58 tune=-4 volume=-2.1
+<region> sample=samples/guzheng/guzheng-60-v1-rr1.flac pitch_keycenter=60 lokey=59 hikey=61 tune=-9 volume=0.0
+<region> sample=samples/guzheng/guzheng-60-v1-rr2.flac pitch_keycenter=60 lokey=59 hikey=61 tune=-9 volume=-2.2
+<region> sample=samples/guzheng/guzheng-60-v1-rr3.flac pitch_keycenter=60 lokey=59 hikey=61 tune=-28 volume=-0.8
+<region> sample=samples/guzheng/guzheng-62-v1-rr1.flac pitch_keycenter=62 lokey=62 hikey=63 tune=8 volume=0.0
+<region> sample=samples/guzheng/guzheng-62-v1-rr2.flac pitch_keycenter=62 lokey=62 hikey=63 tune=17 volume=-4.3
+<region> sample=samples/guzheng/guzheng-62-v1-rr3.flac pitch_keycenter=62 lokey=62 hikey=63 tune=8 volume=-7.9
+<region> sample=samples/guzheng/guzheng-65-v1-rr1.flac pitch_keycenter=65 lokey=64 hikey=66 tune=29 volume=0.0
+<region> sample=samples/guzheng/guzheng-65-v1-rr2.flac pitch_keycenter=65 lokey=64 hikey=66 tune=10 volume=-7.0
+<region> sample=samples/guzheng/guzheng-67-v1-rr1.flac pitch_keycenter=67 lokey=67 hikey=69 tune=4 volume=-5.8
+<region> sample=samples/guzheng/guzheng-67-v1-rr2.flac pitch_keycenter=67 lokey=67 hikey=69 tune=1 volume=-2.6
+<region> sample=samples/guzheng/guzheng-67-v2-rr1.flac pitch_keycenter=67 lokey=67 hikey=69 tune=4 volume=0.0
+<region> sample=samples/guzheng/guzheng-67-v2-rr2.flac pitch_keycenter=67 lokey=67 hikey=69 tune=-12 volume=-1.1
+<region> sample=samples/guzheng/guzheng-72-v1-rr1.flac pitch_keycenter=72 lokey=70 hikey=73 tune=8 volume=-5.2
+<region> sample=samples/guzheng/guzheng-72-v1-rr2.flac pitch_keycenter=72 lokey=70 hikey=73 tune=1 volume=0.0
+<region> sample=samples/guzheng/guzheng-72-v1-rr3.flac pitch_keycenter=72 lokey=70 hikey=73 tune=1 volume=-2.9
+<region> sample=samples/guzheng/guzheng-74-v1-rr1.flac pitch_keycenter=74 lokey=74 hikey=76 tune=2 volume=-3.1
+<region> sample=samples/guzheng/guzheng-74-v1-rr2.flac pitch_keycenter=74 lokey=74 hikey=76 tune=2 volume=-3.2
+<region> sample=samples/guzheng/guzheng-74-v1-rr3.flac pitch_keycenter=74 lokey=74 hikey=76 tune=-5 volume=0.0
+<region> sample=samples/guzheng/guzheng-79-v1-rr1.flac pitch_keycenter=79 lokey=77 hikey=82 tune=-14 volume=0.0
+<region> sample=samples/guzheng/guzheng-86-v1-rr1.flac pitch_keycenter=86 lokey=83 hikey=127 tune=-29 volume=0.0

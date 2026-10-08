@@ -1,0 +1,4656 @@
+{
+ "author": "像素小宝 (sparklecatta-lang)",
+ "license": "CC0-1.0",
+ "instruments": [
+  {
+   "kind": "instrument",
+   "id": "xsxb-voice",
+   "name": "小宝人声",
+   "englishName": "Personal Voice",
+   "family": "vocal",
+   "description": "像素小宝用 voice-kit 录制的人声：乌 · 长音、啊 · 长音、嗯 · 哼鸣、dm · 低音短音、吧 · 短音、乌 · 假声。",
+   "icon": "voice",
+   "color": "#B8572A",
+   "license": "CC0-1.0",
+   "gmProgram": 52,
+   "attack": 0.006,
+   "release": 0.3,
+   "volumeDb": 0,
+   "articulations": [
+    {
+     "id": "oo",
+     "name": "乌 · 长音",
+     "legato": true
+    },
+    {
+     "id": "aa",
+     "name": "啊 · 长音",
+     "legato": true
+    },
+    {
+     "id": "mm",
+     "name": "嗯 · 哼鸣",
+     "legato": true
+    },
+    {
+     "id": "dm",
+     "name": "dm · 低音短音",
+     "release": 0.04
+    },
+    {
+     "id": "ba",
+     "name": "吧 · 短音",
+     "release": 0.04
+    },
+    {
+     "id": "falsetto",
+     "name": "乌 · 假声",
+     "legato": true
+    }
+   ],
+   "defaultArticulation": "oo",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Recorded by the author with voice-kit",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 52,
+     "articulation": "oo",
+     "tuneCents": 12,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9426,
+     "file": "samples/xsxb-voice/oo-52-1.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "oo",
+     "tuneCents": -17,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6109,
+     "file": "samples/xsxb-voice/oo-55-1.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "oo",
+     "tuneCents": -16,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8865,
+     "file": "samples/xsxb-voice/oo-58-1.flac"
+    },
+    {
+     "midi": 61,
+     "articulation": "oo",
+     "tuneCents": -80,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8742,
+     "file": "samples/xsxb-voice/oo-61-1.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "oo",
+     "tuneCents": -88,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2119,
+     "file": "samples/xsxb-voice/oo-64-1.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "oo",
+     "tuneCents": -54,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.0067,
+     "file": "samples/xsxb-voice/oo-67-1.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "oo",
+     "tuneCents": -16,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7609,
+     "file": "samples/xsxb-voice/oo-70-1.flac"
+    },
+    {
+     "midi": 73,
+     "articulation": "oo",
+     "tuneCents": 19,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8043,
+     "file": "samples/xsxb-voice/oo-73-1.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "oo",
+     "tuneCents": -69,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6934,
+     "file": "samples/xsxb-voice/oo-76-1.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "oo",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.1591,
+     "file": "samples/xsxb-voice/oo-79-1.flac"
+    },
+    {
+     "midi": 52,
+     "articulation": "aa",
+     "tuneCents": 11,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6513,
+     "file": "samples/xsxb-voice/aa-52-1.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "aa",
+     "tuneCents": -4,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.1024,
+     "file": "samples/xsxb-voice/aa-55-1.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "aa",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9811,
+     "file": "samples/xsxb-voice/aa-58-1.flac"
+    },
+    {
+     "midi": 61,
+     "articulation": "aa",
+     "tuneCents": -5,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8421,
+     "file": "samples/xsxb-voice/aa-61-1.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "aa",
+     "tuneCents": -48,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8229,
+     "file": "samples/xsxb-voice/aa-64-1.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "aa",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7554,
+     "file": "samples/xsxb-voice/aa-67-1.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "aa",
+     "tuneCents": 47,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.5987,
+     "file": "samples/xsxb-voice/aa-70-1.flac"
+    },
+    {
+     "midi": 73,
+     "articulation": "aa",
+     "tuneCents": 23,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.658,
+     "file": "samples/xsxb-voice/aa-73-1.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "aa",
+     "tuneCents": -38,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9989,
+     "file": "samples/xsxb-voice/aa-76-1.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "aa",
+     "tuneCents": 8,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7949,
+     "file": "samples/xsxb-voice/aa-79-1.flac"
+    },
+    {
+     "midi": 52,
+     "articulation": "mm",
+     "tuneCents": -24,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4285,
+     "file": "samples/xsxb-voice/mm-52-1.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "mm",
+     "tuneCents": -6,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4317,
+     "file": "samples/xsxb-voice/mm-55-1.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "mm",
+     "tuneCents": 26,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4017,
+     "file": "samples/xsxb-voice/mm-58-1.flac"
+    },
+    {
+     "midi": 61,
+     "articulation": "mm",
+     "tuneCents": -17,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.305,
+     "file": "samples/xsxb-voice/mm-61-1.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "mm",
+     "tuneCents": -31,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8506,
+     "file": "samples/xsxb-voice/mm-64-1.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "mm",
+     "tuneCents": -18,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9621,
+     "file": "samples/xsxb-voice/mm-67-1.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "mm",
+     "tuneCents": 9,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9237,
+     "file": "samples/xsxb-voice/mm-70-1.flac"
+    },
+    {
+     "midi": 73,
+     "articulation": "mm",
+     "tuneCents": -3,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.1461,
+     "file": "samples/xsxb-voice/mm-73-1.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "mm",
+     "tuneCents": -33,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2139,
+     "file": "samples/xsxb-voice/mm-76-1.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "mm",
+     "tuneCents": -6,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.066,
+     "file": "samples/xsxb-voice/mm-79-1.flac"
+    },
+    {
+     "midi": 40,
+     "articulation": "dm",
+     "tuneCents": -63,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-40-11.flac"
+    },
+    {
+     "midi": 40,
+     "articulation": "dm",
+     "tuneCents": -88,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-40-12.flac"
+    },
+    {
+     "midi": 40,
+     "articulation": "dm",
+     "tuneCents": -32,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-40-13.flac"
+    },
+    {
+     "midi": 43,
+     "articulation": "dm",
+     "tuneCents": -32,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-43-11.flac"
+    },
+    {
+     "midi": 43,
+     "articulation": "dm",
+     "tuneCents": -8,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-43-12.flac"
+    },
+    {
+     "midi": 43,
+     "articulation": "dm",
+     "tuneCents": 1,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-43-13.flac"
+    },
+    {
+     "midi": 46,
+     "articulation": "dm",
+     "tuneCents": 28,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-46-11.flac"
+    },
+    {
+     "midi": 46,
+     "articulation": "dm",
+     "tuneCents": 39,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-46-12.flac"
+    },
+    {
+     "midi": 46,
+     "articulation": "dm",
+     "tuneCents": 56,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-46-13.flac"
+    },
+    {
+     "midi": 49,
+     "articulation": "dm",
+     "tuneCents": 22,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-49-11.flac"
+    },
+    {
+     "midi": 49,
+     "articulation": "dm",
+     "tuneCents": 30,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-49-12.flac"
+    },
+    {
+     "midi": 49,
+     "articulation": "dm",
+     "tuneCents": 43,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-49-13.flac"
+    },
+    {
+     "midi": 52,
+     "articulation": "dm",
+     "tuneCents": 47,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-52-11.flac"
+    },
+    {
+     "midi": 52,
+     "articulation": "dm",
+     "tuneCents": 30,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-52-12.flac"
+    },
+    {
+     "midi": 52,
+     "articulation": "dm",
+     "tuneCents": 7,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-52-13.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "dm",
+     "tuneCents": -7,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-55-11.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "dm",
+     "tuneCents": 39,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-55-12.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "dm",
+     "tuneCents": 51,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-55-13.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "dm",
+     "tuneCents": 13,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/dm-58-11.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "dm",
+     "tuneCents": 9,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/dm-58-12.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "dm",
+     "tuneCents": 27,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/dm-58-13.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "ba",
+     "tuneCents": 14,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-58-11.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "ba",
+     "tuneCents": 0,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-58-12.flac"
+    },
+    {
+     "midi": 61,
+     "articulation": "ba",
+     "tuneCents": 30,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-61-11.flac"
+    },
+    {
+     "midi": 61,
+     "articulation": "ba",
+     "tuneCents": -5,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-61-12.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "ba",
+     "tuneCents": -95,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-64-11.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "ba",
+     "tuneCents": -85,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-64-12.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "ba",
+     "tuneCents": -24,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-67-11.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "ba",
+     "tuneCents": -85,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-67-12.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "ba",
+     "tuneCents": -23,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/ba-67-13.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "ba",
+     "tuneCents": -10,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-70-11.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "ba",
+     "tuneCents": -72,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-70-12.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "ba",
+     "tuneCents": -58,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/ba-70-13.flac"
+    },
+    {
+     "midi": 73,
+     "articulation": "ba",
+     "tuneCents": -83,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-73-11.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "ba",
+     "tuneCents": -6,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-76-11.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "ba",
+     "tuneCents": -51,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-76-12.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "ba",
+     "tuneCents": -31,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/ba-76-13.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "ba",
+     "tuneCents": 55,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice/ba-79-11.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "ba",
+     "tuneCents": -6,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice/ba-79-12.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "ba",
+     "tuneCents": -2,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice/ba-79-13.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "falsetto",
+     "tuneCents": -49,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2921,
+     "file": "samples/xsxb-voice/falsetto-76-1.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "falsetto",
+     "tuneCents": -3,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.4711,
+     "file": "samples/xsxb-voice/falsetto-79-1.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "falsetto",
+     "tuneCents": 12,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8006,
+     "file": "samples/xsxb-voice/falsetto-82-1.flac"
+    },
+    {
+     "midi": 73,
+     "articulation": "falsetto",
+     "tuneCents": -27,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 2.5922,
+     "file": "samples/xsxb-voice/falsetto-73-1.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "englishName": "Personal Voice (derived)",
+   "family": "vocal",
+   "icon": "voice",
+   "color": "#B8572A",
+   "license": "CC0-1.0",
+   "gmProgram": 52,
+   "attack": 0.006,
+   "release": 0.3,
+   "volumeDb": 0,
+   "defaultArticulation": "oo",
+   "id": "xsxb-voice-f",
+   "name": "小宝人声 · 女声",
+   "description": "由「小宝人声」用 WORLD 声码器转换：音高 +4 半音，共振峰 ×1.17。",
+   "derivedFrom": {
+    "id": "xsxb-voice",
+    "shift": 4.0,
+    "formant": 1.17,
+    "breath": 0.06
+   },
+   "articulations": [
+    {
+     "id": "oo",
+     "name": "乌 · 长音",
+     "legato": true
+    },
+    {
+     "id": "aa",
+     "name": "啊 · 长音",
+     "legato": true
+    },
+    {
+     "id": "mm",
+     "name": "嗯 · 哼鸣",
+     "legato": true
+    },
+    {
+     "id": "ba",
+     "name": "吧 · 短音",
+     "release": 0.04
+    },
+    {
+     "id": "falsetto",
+     "name": "乌 · 假声",
+     "legato": true
+    }
+   ],
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Derived from xsxb-voice (WORLD vocoder formant shift)",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 56,
+     "articulation": "oo",
+     "tuneCents": 12,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9327,
+     "file": "samples/xsxb-voice-f/oo-52-1-f.flac"
+    },
+    {
+     "midi": 59,
+     "articulation": "oo",
+     "tuneCents": -17,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.5994,
+     "file": "samples/xsxb-voice-f/oo-55-1-f.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "oo",
+     "tuneCents": -16,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8769,
+     "file": "samples/xsxb-voice-f/oo-58-1-f.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "oo",
+     "tuneCents": -80,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.862,
+     "file": "samples/xsxb-voice-f/oo-61-1-f.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "oo",
+     "tuneCents": -88,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2014,
+     "file": "samples/xsxb-voice-f/oo-64-1-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "oo",
+     "tuneCents": -54,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9947,
+     "file": "samples/xsxb-voice-f/oo-67-1-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "oo",
+     "tuneCents": -16,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7543,
+     "file": "samples/xsxb-voice-f/oo-70-1-f.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "oo",
+     "tuneCents": 19,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8005,
+     "file": "samples/xsxb-voice-f/oo-73-1-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "oo",
+     "tuneCents": -69,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6857,
+     "file": "samples/xsxb-voice-f/oo-76-1-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "oo",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.1484,
+     "file": "samples/xsxb-voice-f/oo-79-1-f.flac"
+    },
+    {
+     "midi": 56,
+     "articulation": "aa",
+     "tuneCents": 11,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6429,
+     "file": "samples/xsxb-voice-f/aa-52-1-f.flac"
+    },
+    {
+     "midi": 59,
+     "articulation": "aa",
+     "tuneCents": -4,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.0922,
+     "file": "samples/xsxb-voice-f/aa-55-1-f.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "aa",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9713,
+     "file": "samples/xsxb-voice-f/aa-58-1-f.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "aa",
+     "tuneCents": -5,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8306,
+     "file": "samples/xsxb-voice-f/aa-61-1-f.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "aa",
+     "tuneCents": -48,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8156,
+     "file": "samples/xsxb-voice-f/aa-64-1-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "aa",
+     "tuneCents": -10,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7448,
+     "file": "samples/xsxb-voice-f/aa-67-1-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "aa",
+     "tuneCents": 47,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.5906,
+     "file": "samples/xsxb-voice-f/aa-70-1-f.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "aa",
+     "tuneCents": 23,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.6465,
+     "file": "samples/xsxb-voice-f/aa-73-1-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "aa",
+     "tuneCents": -38,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9878,
+     "file": "samples/xsxb-voice-f/aa-76-1-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "aa",
+     "tuneCents": 8,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7965,
+     "file": "samples/xsxb-voice-f/aa-79-1-f.flac"
+    },
+    {
+     "midi": 56,
+     "articulation": "mm",
+     "tuneCents": -24,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4395,
+     "file": "samples/xsxb-voice-f/mm-52-1-f.flac"
+    },
+    {
+     "midi": 59,
+     "articulation": "mm",
+     "tuneCents": -6,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4224,
+     "file": "samples/xsxb-voice-f/mm-55-1-f.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "mm",
+     "tuneCents": 26,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.4116,
+     "file": "samples/xsxb-voice-f/mm-58-1-f.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "mm",
+     "tuneCents": -17,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2975,
+     "file": "samples/xsxb-voice-f/mm-61-1-f.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "mm",
+     "tuneCents": -31,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.8599,
+     "file": "samples/xsxb-voice-f/mm-64-1-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "mm",
+     "tuneCents": -18,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9511,
+     "file": "samples/xsxb-voice-f/mm-67-1-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "mm",
+     "tuneCents": 9,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.9325,
+     "file": "samples/xsxb-voice-f/mm-70-1-f.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "mm",
+     "tuneCents": -3,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.1338,
+     "file": "samples/xsxb-voice-f/mm-73-1-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "mm",
+     "tuneCents": -33,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.202,
+     "file": "samples/xsxb-voice-f/mm-76-1-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "mm",
+     "tuneCents": -6,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.054,
+     "file": "samples/xsxb-voice-f/mm-79-1-f.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "ba",
+     "tuneCents": 14,
+     "gainDb": 0.5,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-58-11-f.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "ba",
+     "tuneCents": 0,
+     "gainDb": 1.6,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-58-12-f.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "ba",
+     "tuneCents": 30,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-61-11-f.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "ba",
+     "tuneCents": -5,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-61-12-f.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "ba",
+     "tuneCents": -95,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-64-11-f.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "ba",
+     "tuneCents": -85,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-64-12-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "ba",
+     "tuneCents": -24,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-67-11-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "ba",
+     "tuneCents": -85,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-67-12-f.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "ba",
+     "tuneCents": -23,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice-f/ba-67-13-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "ba",
+     "tuneCents": -10,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-70-11-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "ba",
+     "tuneCents": -72,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-70-12-f.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "ba",
+     "tuneCents": -58,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice-f/ba-70-13-f.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "ba",
+     "tuneCents": -83,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-73-11-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "ba",
+     "tuneCents": -6,
+     "gainDb": 0.8,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-76-11-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "ba",
+     "tuneCents": -51,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-76-12-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "ba",
+     "tuneCents": -31,
+     "gainDb": 0,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice-f/ba-76-13-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "ba",
+     "tuneCents": 55,
+     "gainDb": 0,
+     "roundRobin": 1,
+     "file": "samples/xsxb-voice-f/ba-79-11-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "ba",
+     "tuneCents": -6,
+     "gainDb": 0,
+     "roundRobin": 2,
+     "file": "samples/xsxb-voice-f/ba-79-12-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "ba",
+     "tuneCents": -2,
+     "gainDb": 1.9,
+     "roundRobin": 3,
+     "file": "samples/xsxb-voice-f/ba-79-13-f.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "falsetto",
+     "tuneCents": -49,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.2812,
+     "file": "samples/xsxb-voice-f/falsetto-76-1-f.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "falsetto",
+     "tuneCents": -3,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 4.4596,
+     "file": "samples/xsxb-voice-f/falsetto-79-1-f.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "falsetto",
+     "tuneCents": 12,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 3.7885,
+     "file": "samples/xsxb-voice-f/falsetto-82-1-f.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "falsetto",
+     "tuneCents": -27,
+     "gainDb": 0.0,
+     "roundRobin": 1,
+     "loopStart": 0.604,
+     "loopEnd": 2.58,
+     "file": "samples/xsxb-voice-f/falsetto-73-1-f.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "xsxb-voice-beatbox",
+   "name": "小宝人声 · Beatbox",
+   "englishName": "Personal Beatbox",
+   "family": "vocal",
+   "description": "像素小宝用 voice-kit 录制的 beatbox。",
+   "icon": "drum",
+   "color": "#C2553D",
+   "license": "CC0-1.0",
+   "gmProgram": 0,
+   "attack": 0.001,
+   "release": 0.05,
+   "volumeDb": 0,
+   "percussive": true,
+   "articulations": [
+    {
+     "id": "kick",
+     "name": "底鼓 · 噗"
+    },
+    {
+     "id": "snare",
+     "name": "军鼓 · 噗嘶"
+    },
+    {
+     "id": "ksnare",
+     "name": "舌根军鼓 · 克"
+    },
+    {
+     "id": "hihat",
+     "name": "踩镲 · 次"
+    },
+    {
+     "id": "openhat",
+     "name": "开镲 · 次——"
+    }
+   ],
+   "defaultArticulation": "kick",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Recorded by the author with voice-kit",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 60,
+     "articulation": "kick",
+     "roundRobin": 1,
+     "gainDb": -2.6,
+     "file": "samples/xsxb-voice-beatbox/bb-kick-11.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "kick",
+     "roundRobin": 2,
+     "gainDb": -5.8,
+     "file": "samples/xsxb-voice-beatbox/bb-kick-12.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "kick",
+     "roundRobin": 3,
+     "gainDb": -6.6,
+     "file": "samples/xsxb-voice-beatbox/bb-kick-13.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "kick",
+     "roundRobin": 4,
+     "gainDb": -6.4,
+     "file": "samples/xsxb-voice-beatbox/bb-kick-14.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "snare",
+     "roundRobin": 1,
+     "gainDb": -2.7,
+     "file": "samples/xsxb-voice-beatbox/bb-snare-11.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "snare",
+     "roundRobin": 2,
+     "gainDb": -5.1,
+     "file": "samples/xsxb-voice-beatbox/bb-snare-12.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "snare",
+     "roundRobin": 3,
+     "gainDb": -6.8,
+     "file": "samples/xsxb-voice-beatbox/bb-snare-13.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "snare",
+     "roundRobin": 4,
+     "gainDb": -6.8,
+     "file": "samples/xsxb-voice-beatbox/bb-snare-14.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "ksnare",
+     "roundRobin": 1,
+     "gainDb": -4.1,
+     "file": "samples/xsxb-voice-beatbox/bb-ksnare-11.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "ksnare",
+     "roundRobin": 2,
+     "gainDb": -5.0,
+     "file": "samples/xsxb-voice-beatbox/bb-ksnare-12.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "ksnare",
+     "roundRobin": 3,
+     "gainDb": -5.0,
+     "file": "samples/xsxb-voice-beatbox/bb-ksnare-13.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "ksnare",
+     "roundRobin": 4,
+     "gainDb": -4.3,
+     "file": "samples/xsxb-voice-beatbox/bb-ksnare-14.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "hihat",
+     "roundRobin": 1,
+     "gainDb": -7.1,
+     "file": "samples/xsxb-voice-beatbox/bb-hihat-11.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "hihat",
+     "roundRobin": 2,
+     "gainDb": -4.5,
+     "file": "samples/xsxb-voice-beatbox/bb-hihat-12.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "hihat",
+     "roundRobin": 3,
+     "gainDb": -2.9,
+     "file": "samples/xsxb-voice-beatbox/bb-hihat-13.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "hihat",
+     "roundRobin": 4,
+     "gainDb": -3.4,
+     "file": "samples/xsxb-voice-beatbox/bb-hihat-14.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "openhat",
+     "roundRobin": 1,
+     "gainDb": -6.2,
+     "file": "samples/xsxb-voice-beatbox/bb-openhat-11.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "openhat",
+     "roundRobin": 2,
+     "gainDb": -5.0,
+     "file": "samples/xsxb-voice-beatbox/bb-openhat-12.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "guzheng",
+   "name": "古筝",
+   "englishName": "Guzheng",
+   "family": "chinese",
+   "description": "中国古筝实录拨弦（Freesound · Pufermufin「LOVELY CHINESE GUZHENG PLUCKED」· CC0，D 羽五声定弦 D F G A C）。从 24 分钟整段演奏中自动挑出单音拨弦，按弦分两档力度、多条轮替；连续演奏中截出的较短样本带自然淡出。使用公开试听版（有损 MP3）。",
+   "icon": "harp",
+   "color": "#A4462E",
+   "license": "CC0-1.0",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "gmProgram": 107,
+   "attack": 0.001,
+   "release": 0.5,
+   "volumeDb": 0,
+   "articulations": [
+    {
+     "id": "pluck",
+     "name": "拨弦"
+    }
+   ],
+   "defaultArticulation": "pluck",
+   "derivedFrom": {
+    "source": "https://cdn.freesound.org/previews/396/396868_6977826-hq.mp3",
+    "sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+    "script": "data/research/guzheng_slice.py",
+    "cuts": [
+     {
+      "file": "guzheng-38-v1-rr1.wav",
+      "start": 658.596,
+      "length": 3.179,
+      "midi": 38,
+      "cents": -39
+     },
+     {
+      "file": "guzheng-43-v1-rr1.wav",
+      "start": 749.044,
+      "length": 2.976,
+      "midi": 43,
+      "cents": -10
+     },
+     {
+      "file": "guzheng-45-v1-rr1.wav",
+      "start": 319.503,
+      "length": 5.442,
+      "midi": 45,
+      "cents": 21
+     },
+     {
+      "file": "guzheng-50-v1-rr1.wav",
+      "start": 361.416,
+      "length": 3.259,
+      "midi": 50,
+      "cents": 5
+     },
+     {
+      "file": "guzheng-53-v1-rr1.wav",
+      "start": 496.383,
+      "length": 4.002,
+      "midi": 53,
+      "cents": 4
+     },
+     {
+      "file": "guzheng-53-v1-rr2.wav",
+      "start": 80.898,
+      "length": 5.272,
+      "midi": 53,
+      "cents": 19
+     },
+     {
+      "file": "guzheng-53-v1-rr3.wav",
+      "start": 673.624,
+      "length": 3.141,
+      "midi": 53,
+      "cents": 12
+     },
+     {
+      "file": "guzheng-55-v1-rr1.wav",
+      "start": 677.096,
+      "length": 3.169,
+      "midi": 55,
+      "cents": 3
+     },
+     {
+      "file": "guzheng-55-v1-rr2.wav",
+      "start": 682.992,
+      "length": 3.083,
+      "midi": 55,
+      "cents": 3
+     },
+     {
+      "file": "guzheng-55-v2-rr1.wav",
+      "start": 728.749,
+      "length": 3.036,
+      "midi": 55,
+      "cents": -43
+     },
+     {
+      "file": "guzheng-55-v2-rr2.wav",
+      "start": 761.01,
+      "length": 2.99,
+      "midi": 55,
+      "cents": -23
+     },
+     {
+      "file": "guzheng-57-v1-rr1.wav",
+      "start": 235.945,
+      "length": 4.005,
+      "midi": 57,
+      "cents": 9
+     },
+     {
+      "file": "guzheng-57-v1-rr2.wav",
+      "start": 670.663,
+      "length": 3.275,
+      "midi": 57,
+      "cents": 9
+     },
+     {
+      "file": "guzheng-57-v1-rr3.wav",
+      "start": 262.905,
+      "length": 2.426,
+      "midi": 57,
+      "cents": 4
+     },
+     {
+      "file": "guzheng-60-v1-rr1.wav",
+      "start": 50.988,
+      "length": 5.332,
+      "midi": 60,
+      "cents": 9
+     },
+     {
+      "file": "guzheng-60-v1-rr2.wav",
+      "start": 43.995,
+      "length": 5.075,
+      "midi": 60,
+      "cents": 9
+     },
+     {
+      "file": "guzheng-60-v1-rr3.wav",
+      "start": 202.277,
+      "length": 3.858,
+      "midi": 60,
+      "cents": 28
+     },
+     {
+      "file": "guzheng-62-v1-rr1.wav",
+      "start": 38.207,
+      "length": 5.363,
+      "midi": 62,
+      "cents": -8
+     },
+     {
+      "file": "guzheng-62-v1-rr2.wav",
+      "start": 280.276,
+      "length": 4.589,
+      "midi": 62,
+      "cents": -17
+     },
+     {
+      "file": "guzheng-62-v1-rr3.wav",
+      "start": 255.544,
+      "length": 3.079,
+      "midi": 62,
+      "cents": -8
+     },
+     {
+      "file": "guzheng-65-v1-rr1.wav",
+      "start": 449.079,
+      "length": 3.226,
+      "midi": 65,
+      "cents": -29
+     },
+     {
+      "file": "guzheng-65-v1-rr2.wav",
+      "start": 559.112,
+      "length": 3.011,
+      "midi": 65,
+      "cents": -10
+     },
+     {
+      "file": "guzheng-67-v1-rr1.wav",
+      "start": 273.045,
+      "length": 4.905,
+      "midi": 67,
+      "cents": -4
+     },
+     {
+      "file": "guzheng-67-v1-rr2.wav",
+      "start": 21.922,
+      "length": 2.273,
+      "midi": 67,
+      "cents": -1
+     },
+     {
+      "file": "guzheng-67-v2-rr1.wav",
+      "start": 24.282,
+      "length": 2.473,
+      "midi": 67,
+      "cents": -4
+     },
+     {
+      "file": "guzheng-67-v2-rr2.wav",
+      "start": 814.449,
+      "length": 3.686,
+      "midi": 67,
+      "cents": 12
+     },
+     {
+      "file": "guzheng-72-v1-rr1.wav",
+      "start": 19.252,
+      "length": 5.148,
+      "midi": 72,
+      "cents": -8
+     },
+     {
+      "file": "guzheng-72-v1-rr2.wav",
+      "start": 17.24,
+      "length": 4.295,
+      "midi": 72,
+      "cents": -1
+     },
+     {
+      "file": "guzheng-72-v1-rr3.wav",
+      "start": 688.993,
+      "length": 3.187,
+      "midi": 72,
+      "cents": -1
+     },
+     {
+      "file": "guzheng-74-v1-rr1.wav",
+      "start": 286.76,
+      "length": 3.35,
+      "midi": 74,
+      "cents": -2
+     },
+     {
+      "file": "guzheng-74-v1-rr2.wav",
+      "start": 348.919,
+      "length": 2.672,
+      "midi": 74,
+      "cents": -2
+     },
+     {
+      "file": "guzheng-74-v1-rr3.wav",
+      "start": 301.502,
+      "length": 3.198,
+      "midi": 74,
+      "cents": 5
+     },
+     {
+      "file": "guzheng-79-v1-rr1.wav",
+      "start": 1084.621,
+      "length": 3.199,
+      "midi": 79,
+      "cents": 14
+     },
+     {
+      "file": "guzheng-86-v1-rr1.wav",
+      "start": 988.701,
+      "length": 3.573,
+      "midi": 86,
+      "cents": 29
+     }
+    ]
+   },
+   "upstreamSource": "https://freesound.org/people/Pufermufin/sounds/396868/",
+   "upstreamLicense": "CC0 1.0",
+   "samples": [
+    {
+     "midi": 38,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 39,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-38-v1-rr1.flac"
+    },
+    {
+     "midi": 43,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 10,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-43-v1-rr1.flac"
+    },
+    {
+     "midi": 45,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -21,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-45-v1-rr1.flac"
+    },
+    {
+     "midi": 50,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -5,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-50-v1-rr1.flac"
+    },
+    {
+     "midi": 53,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -4,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-53-v1-rr1.flac"
+    },
+    {
+     "midi": 53,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": -19,
+     "gainDb": -0.6,
+     "file": "samples/guzheng/guzheng-53-v1-rr2.flac"
+    },
+    {
+     "midi": 53,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": -12,
+     "gainDb": -0.2,
+     "file": "samples/guzheng/guzheng-53-v1-rr3.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -3,
+     "gainDb": -0.8,
+     "velocityMin": 0,
+     "velocityMax": 0.55,
+     "file": "samples/guzheng/guzheng-55-v1-rr1.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": -3,
+     "gainDb": -2.0,
+     "velocityMin": 0,
+     "velocityMax": 0.55,
+     "file": "samples/guzheng/guzheng-55-v1-rr2.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 43,
+     "gainDb": -0.8,
+     "velocityMin": 0.55,
+     "velocityMax": 1,
+     "file": "samples/guzheng/guzheng-55-v2-rr1.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 23,
+     "gainDb": 0.0,
+     "velocityMin": 0.55,
+     "velocityMax": 1,
+     "file": "samples/guzheng/guzheng-55-v2-rr2.flac"
+    },
+    {
+     "midi": 57,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -9,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-57-v1-rr1.flac"
+    },
+    {
+     "midi": 57,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": -9,
+     "gainDb": -0.5,
+     "file": "samples/guzheng/guzheng-57-v1-rr2.flac"
+    },
+    {
+     "midi": 57,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": -4,
+     "gainDb": -2.1,
+     "file": "samples/guzheng/guzheng-57-v1-rr3.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -9,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-60-v1-rr1.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": -9,
+     "gainDb": -2.2,
+     "file": "samples/guzheng/guzheng-60-v1-rr2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": -28,
+     "gainDb": -0.8,
+     "file": "samples/guzheng/guzheng-60-v1-rr3.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 8,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-62-v1-rr1.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 17,
+     "gainDb": -4.3,
+     "file": "samples/guzheng/guzheng-62-v1-rr2.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": 8,
+     "gainDb": -7.9,
+     "file": "samples/guzheng/guzheng-62-v1-rr3.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 29,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-65-v1-rr1.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 10,
+     "gainDb": -7.0,
+     "file": "samples/guzheng/guzheng-65-v1-rr2.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 4,
+     "gainDb": -5.8,
+     "velocityMin": 0,
+     "velocityMax": 0.55,
+     "file": "samples/guzheng/guzheng-67-v1-rr1.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 1,
+     "gainDb": -2.6,
+     "velocityMin": 0,
+     "velocityMax": 0.55,
+     "file": "samples/guzheng/guzheng-67-v1-rr2.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 4,
+     "gainDb": 0.0,
+     "velocityMin": 0.55,
+     "velocityMax": 1,
+     "file": "samples/guzheng/guzheng-67-v2-rr1.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": -12,
+     "gainDb": -1.1,
+     "velocityMin": 0.55,
+     "velocityMax": 1,
+     "file": "samples/guzheng/guzheng-67-v2-rr2.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 8,
+     "gainDb": -5.2,
+     "file": "samples/guzheng/guzheng-72-v1-rr1.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 1,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-72-v1-rr2.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": 1,
+     "gainDb": -2.9,
+     "file": "samples/guzheng/guzheng-72-v1-rr3.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": 2,
+     "gainDb": -3.1,
+     "file": "samples/guzheng/guzheng-74-v1-rr1.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "pluck",
+     "roundRobin": 2,
+     "tuneCents": 2,
+     "gainDb": -3.2,
+     "file": "samples/guzheng/guzheng-74-v1-rr2.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "pluck",
+     "roundRobin": 3,
+     "tuneCents": -5,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-74-v1-rr3.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -14,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-79-v1-rr1.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "pluck",
+     "roundRobin": 1,
+     "tuneCents": -29,
+     "gainDb": 0.0,
+     "file": "samples/guzheng/guzheng-86-v1-rr1.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "suona-oboe",
+   "name": "唢呐 · 双簧管代",
+   "englishName": "Suona (oboe stand-in)",
+   "family": "chinese",
+   "description": "找不到 CC0 的唢呐，用双簧管（VSCO 2 CE · CC0）加均衡和饱和失真推成唢呐式的亮、冲、带鼻音的音色。",
+   "icon": "flute",
+   "color": "#B23A2E",
+   "license": "CC0-1.0",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "gmProgram": 68,
+   "attack": 0.015,
+   "release": 0.2,
+   "volumeDb": -7,
+   "articulations": [
+    {
+     "id": "sustain",
+     "name": "长音"
+    },
+    {
+     "id": "vibrato",
+     "name": "颤音"
+    },
+    {
+     "id": "staccato",
+     "name": "断奏",
+     "release": 0.08
+    }
+   ],
+   "defaultArticulation": "sustain",
+   "derivedFrom": {
+    "id": "oboe",
+    "script": "data/research/suona_from_oboe.py"
+   },
+   "upstreamSource": "https://github.com/sgossner/VSCO-2-CE (oboe), reshaped toward a suona",
+   "upstreamLicense": "CC0 1.0",
+   "samples": [
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -7.5,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -6.2,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 0.2,
+     "tuneCents": -2,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 1.0,
+     "tuneCents": -2,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 0.0,
+     "tuneCents": 0,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 1.4,
+     "tuneCents": 1,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As2_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -9.1,
+     "tuneCents": -10,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -7.7,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 2.1,
+     "tuneCents": 3,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 5.2,
+     "tuneCents": 2,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -2.8,
+     "tuneCents": 1,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 1.5,
+     "tuneCents": 2,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_D3_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -9.1,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -8.9,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -1.2,
+     "tuneCents": -2,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -1.7,
+     "tuneCents": 1,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -2.3,
+     "tuneCents": -1,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -1.6,
+     "tuneCents": -2,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F3_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -0.6,
+     "tuneCents": -7,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -2.7,
+     "tuneCents": -2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -4.0,
+     "tuneCents": 0,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -1.1,
+     "tuneCents": 0,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 7.4,
+     "tuneCents": 5,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 5.8,
+     "tuneCents": 0,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As3_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 0.7,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -5.5,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -0.2,
+     "tuneCents": 1,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 1.0,
+     "tuneCents": 3,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -3.9,
+     "tuneCents": 2,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -2.2,
+     "tuneCents": 2,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_D4_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -6.3,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -10.3,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -8.3,
+     "tuneCents": 0,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -9.4,
+     "tuneCents": 0,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -4.0,
+     "tuneCents": 0,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -4.3,
+     "tuneCents": -5,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F4_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 3.3,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 0.8,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -2.1,
+     "tuneCents": 1,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 1.9,
+     "tuneCents": 3,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 6.6,
+     "tuneCents": 5,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 3.8,
+     "tuneCents": 4,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_As4_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -0.1,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D5_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -4.6,
+     "tuneCents": 5,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_D5_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -1.6,
+     "tuneCents": 1,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_D5_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -5.8,
+     "tuneCents": 9,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v1_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": -7.2,
+     "tuneCents": 13,
+     "velocityMin": 0.0,
+     "velocityMax": 0.333,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v1_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 1.6,
+     "tuneCents": 10,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v2_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 0.3,
+     "tuneCents": 9,
+     "velocityMin": 0.333,
+     "velocityMax": 0.667,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v2_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 1.4,
+     "tuneCents": 9,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v3_rr1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "staccato",
+     "roundRobin": 2,
+     "gainDb": 0.2,
+     "tuneCents": 11,
+     "velocityMin": 0.667,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Stacc_F5_v3_rr2_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -6.3,
+     "tuneCents": -3,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_As2_v1_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 1.1,
+     "tuneCents": -3,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_As2_v3_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -6.0,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_D3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 0.7,
+     "tuneCents": -2,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_D3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -6.6,
+     "tuneCents": 3,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_F3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -1.7,
+     "tuneCents": -3,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_F3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -0.8,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_As3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -3.6,
+     "tuneCents": -1,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_As3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 4.5,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_D4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 3.2,
+     "tuneCents": -2,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_D4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -9.9,
+     "tuneCents": -2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_F4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -6.4,
+     "tuneCents": 0,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_F4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 1.7,
+     "tuneCents": 1,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_As4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 0.0,
+     "tuneCents": 1,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_As4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -4.8,
+     "tuneCents": 3,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_D5_v1_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -6.1,
+     "tuneCents": 0,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_D5_v3_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -9.0,
+     "tuneCents": 8,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Sus_F5_v1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 1.0,
+     "tuneCents": 18,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Sus_F5_v3_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -6.2,
+     "tuneCents": -3,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_As2_v1_Main-suona.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 6.7,
+     "tuneCents": -3,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_As2_v3_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -5.7,
+     "tuneCents": 3,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_D3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 3.2,
+     "tuneCents": -2,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_D3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -7.0,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_F3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -1.3,
+     "tuneCents": 0,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_F3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -6.0,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_As3_v1_Main-suona.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -1.9,
+     "tuneCents": -2,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_As3_v3_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 1.5,
+     "tuneCents": -2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_D4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 5.0,
+     "tuneCents": 1,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_D4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -12.2,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_F4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -5.7,
+     "tuneCents": 0,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_F4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -4.9,
+     "tuneCents": 2,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_As4_v1_Main-suona.flac"
+    },
+    {
+     "midi": 82,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 8.3,
+     "tuneCents": 4,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_As4_v3_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -6.0,
+     "tuneCents": 0,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_D5_v1_Main-suona.flac"
+    },
+    {
+     "midi": 86,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -0.4,
+     "tuneCents": 12,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_D5_v3_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -8.8,
+     "tuneCents": 12,
+     "velocityMin": 0.0,
+     "velocityMax": 0.5,
+     "file": "samples/suona-oboe/Oboe_Vib_F5_v1_Main-suona.flac"
+    },
+    {
+     "midi": 89,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 0.0,
+     "tuneCents": 12,
+     "velocityMin": 0.5,
+     "velocityMax": 1,
+     "file": "samples/suona-oboe/Oboe_Vib_F5_v3_Main-suona.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "xiao",
+   "name": "箫",
+   "englishName": "Xiao (from recorders)",
+   "family": "chinese",
+   "description": "由巴洛克竖笛（VCSL · CC0）加工的箫：压掉吐音的\"嗤\"声、收暗高频、叠一层跟随音量的气声，长音约 70 ms 缓起。",
+   "icon": "flute",
+   "color": "#5E7150",
+   "license": "CC0-1.0",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "gmProgram": 77,
+   "attack": 0.07,
+   "release": 0.35,
+   "volumeDb": 5,
+   "defaultArticulation": "sustain",
+   "articulations": [
+    {
+     "id": "sustain",
+     "name": "长音",
+     "attack": 0.07,
+     "legato": true
+    },
+    {
+     "id": "vibrato",
+     "name": "颤音",
+     "attack": 0.08,
+     "legato": true
+    },
+    {
+     "id": "staccato",
+     "name": "断奏",
+     "attack": 0.008,
+     "release": 0.08
+    }
+   ],
+   "derivedFrom": {
+    "id": "xiao-recorder",
+    "script": "data/research/xiao_from_recorder.py"
+   },
+   "upstreamSource": "https://github.com/sgossner/VCSL (recorder), reshaped toward a xiao",
+   "upstreamLicense": "CC0 1.0",
+   "samples": [
+    {
+     "midi": 53,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": 0,
+     "file": "samples/xiao/BassRecorder_Stac_F2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 9.3,
+     "tuneCents": -15,
+     "file": "samples/xiao/BassRecorder_Stac_G2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 57,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": -1,
+     "file": "samples/xiao/BassRecorder_Stac_A2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 10.2,
+     "tuneCents": -3,
+     "file": "samples/xiao/BassRecorder_Stac_As2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": -11,
+     "file": "samples/xiao/TenRecorder_Stac_C3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": 4,
+     "file": "samples/xiao/TenRecorder_Stac_D3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 10.3,
+     "tuneCents": -10,
+     "file": "samples/xiao/TenRecorder_Stac_E3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 1.0,
+     "tuneCents": -3,
+     "file": "samples/xiao/BassRecorder_Stac_F3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 2.9,
+     "tuneCents": 5,
+     "file": "samples/xiao/TenRecorder_Stac_Fs3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -4.7,
+     "tuneCents": 8,
+     "file": "samples/xiao/BassRecorder_Stac_G3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 4.4,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Stac_Gs3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -8.9,
+     "tuneCents": -4,
+     "file": "samples/xiao/BassRecorder_Stac_A3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -7.1,
+     "tuneCents": 6,
+     "file": "samples/xiao/TenRecorder_Stac_As3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": 0.0,
+     "tuneCents": 3,
+     "file": "samples/xiao/BassRecorder_Stac_B3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -2.5,
+     "tuneCents": -3,
+     "file": "samples/xiao/TenRecorder_Stac_C4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -2.9,
+     "tuneCents": -3,
+     "file": "samples/xiao/TenRecorder_Stac_D4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -5.4,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Stac_E4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 77,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -9.4,
+     "tuneCents": 5,
+     "file": "samples/xiao/BassRecorder_Stac_F4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -3.0,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_Stac_Fs4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -12,
+     "tuneCents": -4,
+     "file": "samples/xiao/TenRecorder_Stac_Gs4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "staccato",
+     "roundRobin": 1,
+     "gainDb": -12,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Stac_B4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 54,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 3.9,
+     "tuneCents": 3,
+     "file": "samples/xiao/BassRecorder_Sus_Fs2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 56,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 9.3,
+     "tuneCents": 0,
+     "file": "samples/xiao/BassRecorder_Sus_Gs2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 58,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": 6,
+     "file": "samples/xiao/BassRecorder_Sus_As2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Sus_C3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 3.1,
+     "tuneCents": 0,
+     "file": "samples/xiao/TenRecorder_Sus_D3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 11.0,
+     "tuneCents": 7,
+     "file": "samples/xiao/TenRecorder_Sus_E3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 1.5,
+     "tuneCents": -2,
+     "file": "samples/xiao/TenRecorder_Sus_Fs3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 68,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -1.5,
+     "tuneCents": -2,
+     "file": "samples/xiao/TenRecorder_Sus_Gs3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 70,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -5.5,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Sus_As3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": 6.8,
+     "tuneCents": 0,
+     "file": "samples/xiao/TenRecorder_Sus_C4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -5.5,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Sus_D4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -4.7,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_Sus_E4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -3.5,
+     "tuneCents": -3,
+     "file": "samples/xiao/TenRecorder_Sus_Fs4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 80,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -10.2,
+     "tuneCents": 0,
+     "file": "samples/xiao/TenRecorder_Sus_Gs4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -12,
+     "tuneCents": 0,
+     "file": "samples/xiao/TenRecorder_Sus_A4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 84,
+     "articulation": "sustain",
+     "roundRobin": 1,
+     "gainDb": -12,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_Sus_C5_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 53,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": 2,
+     "file": "samples/xiao/BassRecorder_SusVib_F2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 55,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": 1,
+     "file": "samples/xiao/BassRecorder_SusVib_G2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 57,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 10.6,
+     "tuneCents": 6,
+     "file": "samples/xiao/BassRecorder_SusVib_A2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 59,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": -4,
+     "file": "samples/xiao/BassRecorder_SusVib_B2_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 12,
+     "tuneCents": -3,
+     "file": "samples/xiao/TenRecorder_SusVib_C3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 62,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 6.7,
+     "tuneCents": 1,
+     "file": "samples/xiao/TenRecorder_SusVib_D3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 64,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 7.6,
+     "tuneCents": -2,
+     "file": "samples/xiao/TenRecorder_SusVib_E3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 5.6,
+     "tuneCents": 1,
+     "file": "samples/xiao/BassRecorder_SusVib_F3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 3.0,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_SusVib_Fs3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 67,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -3.6,
+     "tuneCents": -8,
+     "file": "samples/xiao/TenRecorder_SusVib_G3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -5.0,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_SusVib_A3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 71,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -6.2,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_SusVib_B3_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -4.2,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_SusVib_C4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 74,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -4.7,
+     "tuneCents": 4,
+     "file": "samples/xiao/TenRecorder_SusVib_D4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 76,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -1.3,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_SusVib_E4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": 0.0,
+     "tuneCents": 4,
+     "file": "samples/xiao/TenRecorder_SusVib_Fs4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 79,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -8.6,
+     "tuneCents": 4,
+     "file": "samples/xiao/TenRecorder_SusVib_G4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -12,
+     "tuneCents": -1,
+     "file": "samples/xiao/TenRecorder_SusVib_A4_rr1_Main-xiao.flac"
+    },
+    {
+     "midi": 83,
+     "articulation": "vibrato",
+     "roundRobin": 1,
+     "gainDb": -10.6,
+     "tuneCents": 3,
+     "file": "samples/xiao/TenRecorder_SusVib_B4_rr1_Main-xiao.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "crate-classical",
+   "name": "采样盒 · 古典乐句",
+   "englishName": "Crate: classical loops",
+   "family": "samples",
+   "description": "公有领域 / CC0 古典钢琴录音按整小节切出的 loop，标了 BPM、调性、和弦；自动拉伸到歌曲速度（变速不变调）。每个奏法是一个切片，在 C4 触发原调。",
+   "icon": "disc",
+   "color": "#5A4E7C",
+   "license": "CC0-1.0",
+   "gmProgram": 0,
+   "attack": 0.003,
+   "release": 0.03,
+   "volumeDb": 0,
+   "articulations": [
+    {
+     "id": "bach-prelude-bars1-4",
+     "name": "巴赫 C 大调前奏曲 · 1–4 小节",
+     "release": 0.03
+    },
+    {
+     "id": "bach-prelude-bars5-8",
+     "name": "巴赫 C 大调前奏曲 · 5–8 小节",
+     "release": 0.03
+    },
+    {
+     "id": "satie-gymnopedie-intro",
+     "name": "萨蒂 裸体歌舞 1 · 前奏 4 小节",
+     "release": 0.03
+    },
+    {
+     "id": "satie-gymnopedie-melody",
+     "name": "萨蒂 裸体歌舞 1 · 旋律 5–12 小节（真人演奏，速度略有起伏）",
+     "release": 0.03
+    },
+    {
+     "id": "beethoven-moonlight-bars1-4",
+     "name": "贝多芬 月光 · 1–4 小节",
+     "release": 0.03
+    },
+    {
+     "id": "fur-elise-opening",
+     "name": "贝多芬 致爱丽丝 · 开头（弱起 + 1–4 小节）",
+     "release": 0.03
+    }
+   ],
+   "defaultArticulation": "bach-prelude-bars1-4",
+   "stretch": true,
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Wikimedia Commons recordings, see docs/SAMPLE-CRATE.md in XSXB-Band",
+   "upstreamLicense": "Public domain / CC0 (per chop)",
+   "samples": [
+    {
+     "midi": 60,
+     "articulation": "bach-prelude-bars1-4",
+     "bpm": 63.31,
+     "file": "samples/crate-classical/bach-prelude-bars1-4.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bach-prelude-bars5-8",
+     "bpm": 63.8,
+     "file": "samples/crate-classical/bach-prelude-bars5-8.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "satie-gymnopedie-intro",
+     "bpm": 73.13,
+     "file": "samples/crate-classical/satie-gymnopedie-intro.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "satie-gymnopedie-melody",
+     "bpm": 79.2,
+     "file": "samples/crate-classical/satie-gymnopedie-melody.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "beethoven-moonlight-bars1-4",
+     "bpm": 53.76,
+     "file": "samples/crate-classical/beethoven-moonlight-bars1-4.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "fur-elise-opening",
+     "bpm": 64.6,
+     "file": "samples/crate-classical/fur-elise-opening.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "crate-speech",
+   "name": "采样盒 · 讲话",
+   "englishName": "Crate: speech",
+   "family": "samples",
+   "description": "NASA 任务录音、肯尼迪总统图书馆录音（美国政府作品，公有领域）与 CC0 女声念白，一次性触发。",
+   "icon": "disc",
+   "color": "#5A4E7C",
+   "license": "CC0-1.0",
+   "gmProgram": 0,
+   "attack": 0.003,
+   "release": 0.03,
+   "volumeDb": 0,
+   "articulations": [
+    {
+     "id": "armstrong-small-step",
+     "name": "阿姆斯特朗 · 一小步",
+     "release": 0.03
+    },
+    {
+     "id": "apollo13-houston-problem-here",
+     "name": "阿波罗 13 · Okay, Houston, we've had a problem here",
+     "release": 0.03
+    },
+    {
+     "id": "apollo13-houston-problem",
+     "name": "阿波罗 13 · Houston, we've had a problem",
+     "release": 0.03
+    },
+    {
+     "id": "apollo11-eagle-has-landed",
+     "name": "阿波罗 11 · Tranquility Base here. The Eagle has landed",
+     "release": 0.03
+    },
+    {
+     "id": "jfk-we-choose-moon-x2",
+     "name": "肯尼迪 · We choose to go to the moon ×2",
+     "release": 0.03
+    },
+    {
+     "id": "jfk-we-choose-moon",
+     "name": "肯尼迪 · We choose to go to the moon",
+     "release": 0.03
+    },
+    {
+     "id": "jfk-this-decade",
+     "name": "肯尼迪 · …to the moon in this decade and do the other things",
+     "release": 0.03
+    },
+    {
+     "id": "jfk-not-because-easy",
+     "name": "肯尼迪 · …not because they are easy, but because they are hard",
+     "release": 0.03
+    },
+    {
+     "id": "spoken-vastness-of-stars",
+     "name": "女声念白 · In the vastness of stars, what do you see?",
+     "release": 0.03
+    },
+    {
+     "id": "spoken-darkness",
+     "name": "女声念白 · Darkness",
+     "release": 0.03
+    }
+   ],
+   "defaultArticulation": "armstrong-small-step",
+   "percussive": true,
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "NASA, JFK Library, Freesound, see docs/SAMPLE-CRATE.md in XSXB-Band",
+   "upstreamLicense": "Public domain / CC0 (per chop)",
+   "samples": [
+    {
+     "midi": 60,
+     "articulation": "armstrong-small-step",
+     "file": "samples/crate-speech/armstrong-small-step.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "apollo13-houston-problem-here",
+     "file": "samples/crate-speech/apollo13-houston-problem-here.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "apollo13-houston-problem",
+     "file": "samples/crate-speech/apollo13-houston-problem.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "apollo11-eagle-has-landed",
+     "file": "samples/crate-speech/apollo11-eagle-has-landed.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "jfk-we-choose-moon-x2",
+     "file": "samples/crate-speech/jfk-we-choose-moon-x2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "jfk-we-choose-moon",
+     "file": "samples/crate-speech/jfk-we-choose-moon.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "jfk-this-decade",
+     "file": "samples/crate-speech/jfk-this-decade.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "jfk-not-because-easy",
+     "file": "samples/crate-speech/jfk-not-because-easy.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "spoken-vastness-of-stars",
+     "file": "samples/crate-speech/spoken-vastness-of-stars.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "spoken-darkness",
+     "file": "samples/crate-speech/spoken-darkness.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "crate-vocals",
+   "name": "采样盒 · 人声",
+   "englishName": "Crate: vocal shots",
+   "family": "samples",
+   "description": "Freesound CC0 人声短句（灵魂乐、爵士拟声、吟唱、切片），一次性触发；有音高的按实测音高定根音。",
+   "icon": "disc",
+   "color": "#5A4E7C",
+   "license": "CC0-1.0",
+   "gmProgram": 0,
+   "attack": 0.003,
+   "release": 0.03,
+   "volumeDb": 0,
+   "articulations": [
+    {
+     "id": "soul-shot-1",
+     "name": "灵魂乐女声 · 句 1",
+     "release": 0.03
+    },
+    {
+     "id": "soul-shot-2",
+     "name": "灵魂乐女声 · 句 2",
+     "release": 0.03
+    },
+    {
+     "id": "soul-shot-3",
+     "name": "灵魂乐女声 · 句 3",
+     "release": 0.03
+    },
+    {
+     "id": "soul-shot-4",
+     "name": "灵魂乐女声 · 句 4",
+     "release": 0.03
+    },
+    {
+     "id": "soul-pitched",
+     "name": "灵魂乐女声 · 变调效果",
+     "release": 0.03
+    },
+    {
+     "id": "scat-1",
+     "name": "爵士拟声 · 1",
+     "release": 0.03
+    },
+    {
+     "id": "scat-2",
+     "name": "爵士拟声 · 2",
+     "release": 0.03
+    },
+    {
+     "id": "scat-3",
+     "name": "爵士拟声 · 3",
+     "release": 0.03
+    },
+    {
+     "id": "vocal-chops-loop",
+     "name": "女声切片 · 整段",
+     "release": 0.03
+    },
+    {
+     "id": "high-chant",
+     "name": "高音吟唱",
+     "release": 0.03
+    }
+   ],
+   "defaultArticulation": "soul-shot-1",
+   "percussive": true,
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Freesound, see docs/SAMPLE-CRATE.md in XSXB-Band",
+   "upstreamLicense": "CC0 1.0 (per chop)",
+   "samples": [
+    {
+     "midi": 59,
+     "articulation": "soul-shot-1",
+     "file": "samples/crate-vocals/soul-shot-1.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "soul-shot-2",
+     "file": "samples/crate-vocals/soul-shot-2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "soul-shot-3",
+     "file": "samples/crate-vocals/soul-shot-3.flac"
+    },
+    {
+     "midi": 59,
+     "articulation": "soul-shot-4",
+     "file": "samples/crate-vocals/soul-shot-4.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "soul-pitched",
+     "file": "samples/crate-vocals/soul-pitched.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "scat-1",
+     "file": "samples/crate-vocals/scat-1.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "scat-2",
+     "file": "samples/crate-vocals/scat-2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "scat-3",
+     "file": "samples/crate-vocals/scat-3.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "vocal-chops-loop",
+     "file": "samples/crate-vocals/vocal-chops-loop.flac"
+    },
+    {
+     "midi": 65,
+     "articulation": "high-chant",
+     "file": "samples/crate-vocals/high-chant.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "nujabes-chops",
+   "name": "采样盒 · 自制爵士唱片切片",
+   "englishName": "Home-made jazz record chops",
+   "family": "samples",
+   "description": "工作室自己演奏的原创爵士乐句（次中音萨克斯即兴口气的主题 + 钢琴、低音提琴、叮叮镲，95 BPM，Dbmaj9 C7b9 Fm9 Fm9 | Bbm9 Eb13 Abmaj9 C7b9），做旧后切片：8 / 4 / 2 / 1 小节和无萨克斯的和弦单击。自动拉伸到歌曲速度。",
+   "icon": "disc",
+   "color": "#6A5A8C",
+   "license": "CC0-1.0",
+   "gmProgram": 0,
+   "attack": 0.003,
+   "release": 0.03,
+   "volumeDb": 0,
+   "stretch": true,
+   "articulations": [
+    {
+     "id": "bars1-8",
+     "name": "1–8 小节 · 萨克斯整句",
+     "release": 0.03
+    },
+    {
+     "id": "bars1-4",
+     "name": "1–4 小节 · 萨克斯整句",
+     "release": 0.03
+    },
+    {
+     "id": "bars5-8",
+     "name": "5–8 小节 · 萨克斯整句",
+     "release": 0.03
+    },
+    {
+     "id": "bars1-2",
+     "name": "1–2 小节 · Dbmaj9 → C7b9",
+     "release": 0.03
+    },
+    {
+     "id": "bars3-4",
+     "name": "3–4 小节 · Fm9 → Fm9",
+     "release": 0.03
+    },
+    {
+     "id": "bars5-6",
+     "name": "5–6 小节 · Bbm9 → Eb13",
+     "release": 0.03
+    },
+    {
+     "id": "bars7-8",
+     "name": "7–8 小节 · Abmaj9 → C7b9",
+     "release": 0.03
+    },
+    {
+     "id": "bar1",
+     "name": "第 1 小节 · Dbmaj9",
+     "release": 0.03
+    },
+    {
+     "id": "bar2",
+     "name": "第 2 小节 · C7b9",
+     "release": 0.03
+    },
+    {
+     "id": "bar3",
+     "name": "第 3 小节 · Fm9",
+     "release": 0.03
+    },
+    {
+     "id": "bar4",
+     "name": "第 4 小节 · Fm9",
+     "release": 0.03
+    },
+    {
+     "id": "bar5",
+     "name": "第 5 小节 · Bbm9",
+     "release": 0.03
+    },
+    {
+     "id": "bar6",
+     "name": "第 6 小节 · Eb13",
+     "release": 0.03
+    },
+    {
+     "id": "bar7",
+     "name": "第 7 小节 · Abmaj9",
+     "release": 0.03
+    },
+    {
+     "id": "bar8",
+     "name": "第 8 小节 · C7b9",
+     "release": 0.03
+    },
+    {
+     "id": "stab-Dbmaj9",
+     "name": "和弦单击 · Dbmaj9（无萨克斯）",
+     "release": 0.03
+    },
+    {
+     "id": "stab-Bbm9",
+     "name": "和弦单击 · Bbm9（无萨克斯）",
+     "release": 0.03
+    },
+    {
+     "id": "stab-Abmaj9",
+     "name": "和弦单击 · Abmaj9（无萨克斯）",
+     "release": 0.03
+    }
+   ],
+   "defaultArticulation": "bars1-8",
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "An original jazz phrase rendered in the studio from CC0 samples (VCSL sax, VSCO piano, Meatbass, Virtuosity ride), then aged and chopped",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 60,
+     "articulation": "bars1-8",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars1-8.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars1-4",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars1-4.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars5-8",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars5-8.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars1-2",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars1-2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars3-4",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars3-4.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars5-6",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars5-6.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bars7-8",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bars7-8.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar1",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar1.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar2",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar2.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar3",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar3.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar4",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar4.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar5",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar5.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar6",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar6.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar7",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar7.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "bar8",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/bar8.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "stab-Dbmaj9",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/stab-Dbmaj9.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "stab-Bbm9",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/stab-Bbm9.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "stab-Abmaj9",
+     "bpm": 95,
+     "file": "samples/nujabes-chops/stab-Abmaj9.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "gfunk-lead",
+   "name": "合成器主音 · G-funk 哼鸣",
+   "englishName": "G-funk whine lead",
+   "family": "synth",
+   "description": "自制合成器主音：lead / vibrato 是以正弦为主的圆润“哼鸣”；sly / sly-vibrato 是坏笑的鼻音版（两只微失谐锯齿 + 窄脉冲过共振低通，去掉胸腔），更有 G-funk 的痞气。无缝持续循环；连奏时有 portamento 滑音。",
+   "icon": "wave",
+   "color": "#7FB069",
+   "license": "CC0-1.0",
+   "gmProgram": 80,
+   "attack": 0.012,
+   "release": 0.12,
+   "volumeDb": -5,
+   "defaultArticulation": "vibrato",
+   "articulations": [
+    {
+     "id": "lead",
+     "name": "直音（滑音）",
+     "legato": true,
+     "glide": 0.09
+    },
+    {
+     "id": "vibrato",
+     "name": "颤音（滑音）",
+     "legato": true,
+     "glide": 0.12
+    },
+    {
+     "id": "sly",
+     "name": "坏笑 · 鼻音直音（滑音）",
+     "legato": true,
+     "glide": 0.1
+    },
+    {
+     "id": "sly-vibrato",
+     "name": "坏笑 · 鼻音颤音（滑音）",
+     "legato": true,
+     "glide": 0.13
+    }
+   ],
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Synthesised in the studio",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 60,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.000708,
+     "file": "samples/gfunk-lead/lead-60.flac"
+    },
+    {
+     "midi": 63,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.001396,
+     "file": "samples/gfunk-lead/lead-63.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-66.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-69.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.000708,
+     "file": "samples/gfunk-lead/lead-72.flac"
+    },
+    {
+     "midi": 75,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 0.999792,
+     "file": "samples/gfunk-lead/lead-75.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-78.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-81.flac"
+    },
+    {
+     "midi": 84,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 0.99975,
+     "file": "samples/gfunk-lead/lead-84.flac"
+    },
+    {
+     "midi": 87,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 0.999792,
+     "file": "samples/gfunk-lead/lead-87.flac"
+    },
+    {
+     "midi": 90,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-90.flac"
+    },
+    {
+     "midi": 93,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.0,
+     "file": "samples/gfunk-lead/lead-93.flac"
+    },
+    {
+     "midi": 96,
+     "articulation": "lead",
+     "loopStart": 0.5,
+     "loopEnd": 1.000229,
+     "file": "samples/gfunk-lead/lead-96.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "vibrato",
+     "loopStart": 0.907792,
+     "loopEnd": 1.634021,
+     "file": "samples/gfunk-lead/vibrato-60.flac"
+    },
+    {
+     "midi": 63,
+     "articulation": "vibrato",
+     "loopStart": 0.907979,
+     "loopEnd": 1.634375,
+     "file": "samples/gfunk-lead/vibrato-63.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "vibrato",
+     "loopStart": 0.908792,
+     "loopEnd": 1.635833,
+     "file": "samples/gfunk-lead/vibrato-66.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "vibrato",
+     "loopStart": 0.909083,
+     "loopEnd": 1.636354,
+     "file": "samples/gfunk-lead/vibrato-69.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "vibrato",
+     "loopStart": 0.910167,
+     "loopEnd": 1.638313,
+     "file": "samples/gfunk-lead/vibrato-72.flac"
+    },
+    {
+     "midi": 75,
+     "articulation": "vibrato",
+     "loopStart": 0.91,
+     "loopEnd": 1.638,
+     "file": "samples/gfunk-lead/vibrato-75.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "vibrato",
+     "loopStart": 0.908792,
+     "loopEnd": 1.635833,
+     "file": "samples/gfunk-lead/vibrato-78.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "vibrato",
+     "loopStart": 0.909083,
+     "loopEnd": 1.636354,
+     "file": "samples/gfunk-lead/vibrato-81.flac"
+    },
+    {
+     "midi": 84,
+     "articulation": "vibrato",
+     "loopStart": 0.908979,
+     "loopEnd": 1.636167,
+     "file": "samples/gfunk-lead/vibrato-84.flac"
+    },
+    {
+     "midi": 87,
+     "articulation": "vibrato",
+     "loopStart": 0.909,
+     "loopEnd": 1.636187,
+     "file": "samples/gfunk-lead/vibrato-87.flac"
+    },
+    {
+     "midi": 90,
+     "articulation": "vibrato",
+     "loopStart": 0.908792,
+     "loopEnd": 1.635833,
+     "file": "samples/gfunk-lead/vibrato-90.flac"
+    },
+    {
+     "midi": 93,
+     "articulation": "vibrato",
+     "loopStart": 0.909083,
+     "loopEnd": 1.636354,
+     "file": "samples/gfunk-lead/vibrato-93.flac"
+    },
+    {
+     "midi": 96,
+     "articulation": "vibrato",
+     "loopStart": 0.908979,
+     "loopEnd": 1.636167,
+     "file": "samples/gfunk-lead/vibrato-96.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-60.flac"
+    },
+    {
+     "midi": 63,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-63.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-66.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-69.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-72.flac"
+    },
+    {
+     "midi": 75,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-75.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-78.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-81.flac"
+    },
+    {
+     "midi": 84,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-84.flac"
+    },
+    {
+     "midi": 87,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-87.flac"
+    },
+    {
+     "midi": 90,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-90.flac"
+    },
+    {
+     "midi": 93,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-93.flac"
+    },
+    {
+     "midi": 96,
+     "articulation": "sly",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-96.flac"
+    },
+    {
+     "midi": 60,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-60.flac"
+    },
+    {
+     "midi": 63,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-63.flac"
+    },
+    {
+     "midi": 66,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-66.flac"
+    },
+    {
+     "midi": 69,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-69.flac"
+    },
+    {
+     "midi": 72,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-72.flac"
+    },
+    {
+     "midi": 75,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-75.flac"
+    },
+    {
+     "midi": 78,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-78.flac"
+    },
+    {
+     "midi": 81,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-81.flac"
+    },
+    {
+     "midi": 84,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-84.flac"
+    },
+    {
+     "midi": 87,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-87.flac"
+    },
+    {
+     "midi": 90,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-90.flac"
+    },
+    {
+     "midi": 93,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-93.flac"
+    },
+    {
+     "midi": 96,
+     "articulation": "sly-vibrato",
+     "loopStart": 1.0,
+     "loopEnd": 1.96,
+     "gainDb": 2,
+     "file": "samples/gfunk-lead/sly-vibrato-96.flac"
+    }
+   ]
+  },
+  {
+   "kind": "instrument",
+   "id": "gfunk-bass",
+   "name": "合成器贝斯 · Moog 式",
+   "englishName": "G-funk Moog bass",
+   "family": "synth",
+   "description": "自制 Moog 式合成器贝斯：锯齿波 + 低八度方波，过四极低通，滤波包络从亮到暗，轻度过载；sustain 连奏可滑音，pluck 跟随音符长度停止，deep 是以正弦基音为主的深沉低频（G-funk 黑帮味），滑音更慢。",
+   "icon": "wave",
+   "color": "#3E5C76",
+   "license": "CC0-1.0",
+   "gmProgram": 80,
+   "attack": 0.003,
+   "release": 0.06,
+   "volumeDb": -8,
+   "defaultArticulation": "sustain",
+   "articulations": [
+    {
+     "id": "sustain",
+     "name": "持续（可滑音）",
+     "legato": true,
+     "glide": 0.07
+    },
+    {
+     "id": "pluck",
+     "name": "短拨",
+     "release": 0.04
+    },
+    {
+     "id": "deep",
+     "name": "深沉低频（慢滑音）",
+     "legato": true,
+     "glide": 0.14
+    }
+   ],
+   "author": "像素小宝 (sparklecatta-lang)",
+   "upstreamSource": "Synthesised in the studio",
+   "upstreamLicense": "original",
+   "samples": [
+    {
+     "midi": 24,
+     "articulation": "sustain",
+     "loopStart": 0.917333,
+     "loopEnd": 1.161958,
+     "file": "samples/gfunk-bass/sustain-24.flac"
+    },
+    {
+     "midi": 27,
+     "articulation": "sustain",
+     "loopStart": 0.925667,
+     "loopEnd": 1.182792,
+     "file": "samples/gfunk-bass/sustain-27.flac"
+    },
+    {
+     "midi": 30,
+     "articulation": "sustain",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "file": "samples/gfunk-bass/sustain-30.flac"
+    },
+    {
+     "midi": 33,
+     "articulation": "sustain",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "file": "samples/gfunk-bass/sustain-33.flac"
+    },
+    {
+     "midi": 36,
+     "articulation": "sustain",
+     "loopStart": 0.886771,
+     "loopEnd": 1.131396,
+     "file": "samples/gfunk-bass/sustain-36.flac"
+    },
+    {
+     "midi": 39,
+     "articulation": "sustain",
+     "loopStart": 0.899958,
+     "loopEnd": 1.157083,
+     "file": "samples/gfunk-bass/sustain-39.flac"
+    },
+    {
+     "midi": 42,
+     "articulation": "sustain",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "file": "samples/gfunk-bass/sustain-42.flac"
+    },
+    {
+     "midi": 45,
+     "articulation": "sustain",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "file": "samples/gfunk-bass/sustain-45.flac"
+    },
+    {
+     "midi": 48,
+     "articulation": "sustain",
+     "loopStart": 0.902062,
+     "loopEnd": 1.146688,
+     "file": "samples/gfunk-bass/sustain-48.flac"
+    },
+    {
+     "midi": 51,
+     "articulation": "sustain",
+     "loopStart": 0.899958,
+     "loopEnd": 1.144229,
+     "file": "samples/gfunk-bass/sustain-51.flac"
+    },
+    {
+     "midi": 24,
+     "articulation": "pluck",
+     "loopStart": 0.917333,
+     "loopEnd": 1.161958,
+     "file": "samples/gfunk-bass/pluck-24.flac"
+    },
+    {
+     "midi": 27,
+     "articulation": "pluck",
+     "loopStart": 0.925667,
+     "loopEnd": 1.182792,
+     "file": "samples/gfunk-bass/pluck-27.flac"
+    },
+    {
+     "midi": 30,
+     "articulation": "pluck",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "file": "samples/gfunk-bass/pluck-30.flac"
+    },
+    {
+     "midi": 33,
+     "articulation": "pluck",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "file": "samples/gfunk-bass/pluck-33.flac"
+    },
+    {
+     "midi": 36,
+     "articulation": "pluck",
+     "loopStart": 0.886771,
+     "loopEnd": 1.131396,
+     "file": "samples/gfunk-bass/pluck-36.flac"
+    },
+    {
+     "midi": 39,
+     "articulation": "pluck",
+     "loopStart": 0.899958,
+     "loopEnd": 1.157083,
+     "file": "samples/gfunk-bass/pluck-39.flac"
+    },
+    {
+     "midi": 42,
+     "articulation": "pluck",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "file": "samples/gfunk-bass/pluck-42.flac"
+    },
+    {
+     "midi": 45,
+     "articulation": "pluck",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "file": "samples/gfunk-bass/pluck-45.flac"
+    },
+    {
+     "midi": 48,
+     "articulation": "pluck",
+     "loopStart": 0.902062,
+     "loopEnd": 1.146688,
+     "file": "samples/gfunk-bass/pluck-48.flac"
+    },
+    {
+     "midi": 51,
+     "articulation": "pluck",
+     "loopStart": 0.899958,
+     "loopEnd": 1.144229,
+     "file": "samples/gfunk-bass/pluck-51.flac"
+    },
+    {
+     "midi": 24,
+     "articulation": "deep",
+     "loopStart": 0.917333,
+     "loopEnd": 1.161958,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-24.flac"
+    },
+    {
+     "midi": 27,
+     "articulation": "deep",
+     "loopStart": 0.925667,
+     "loopEnd": 1.182792,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-27.flac"
+    },
+    {
+     "midi": 30,
+     "articulation": "deep",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-30.flac"
+    },
+    {
+     "midi": 33,
+     "articulation": "deep",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-33.flac"
+    },
+    {
+     "midi": 36,
+     "articulation": "deep",
+     "loopStart": 0.886771,
+     "loopEnd": 1.131396,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-36.flac"
+    },
+    {
+     "midi": 39,
+     "articulation": "deep",
+     "loopStart": 0.899958,
+     "loopEnd": 1.157083,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-39.flac"
+    },
+    {
+     "midi": 42,
+     "articulation": "deep",
+     "loopStart": 0.908125,
+     "loopEnd": 1.167583,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-42.flac"
+    },
+    {
+     "midi": 45,
+     "articulation": "deep",
+     "loopStart": 0.909083,
+     "loopEnd": 1.163625,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-45.flac"
+    },
+    {
+     "midi": 48,
+     "articulation": "deep",
+     "loopStart": 0.902062,
+     "loopEnd": 1.146688,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-48.flac"
+    },
+    {
+     "midi": 51,
+     "articulation": "deep",
+     "loopStart": 0.899958,
+     "loopEnd": 1.144229,
+     "gainDb": 5,
+     "file": "samples/gfunk-bass/deep-51.flac"
+    }
+   ]
+  }
+ ]
+}
